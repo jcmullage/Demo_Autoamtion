@@ -13,8 +13,6 @@ public class AddBankAccountPage extends BasePage{
 	
 	public WebDriver driver;
 	private String SEARCH_BANK_NAME = "id=>xui-searchfield-1018-inputEl";
-	//private String SEARCH_BANK = "xpath=>//ul[@class='x-component xui-contentblock ba-banklist--list x-component-default'and @componentid='dataview-1085']";
-	//private String SEARCH_BANK = "xpath=>//li[text()='ANZ (NZ)' and @class='ba-banklist--item xui-contentblock--item'and @data-boundview='dataview-1085']";
 	private String SEARCH_BANK = "xpath=>//ul[@id='dataview-1085']";
 	private String SEARCH_ANZ_BANK = "xpath=>//li[text()='ANZ (NZ)']";
 	

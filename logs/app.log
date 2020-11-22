@@ -343,3 +343,72 @@
 19:51:11.563 INFO  base.CustomDriver -Element :: Add Bank Account Nofification is displayed
 19:51:16.565 INFO  base.TestListeners -onTestSuccess -> Test Method Name: logTotheSystem
 19:51:18.006 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test
+21:25:08.504 INFO  utilities.Util -Current Date and Time :: 11_22_2020 21_25_08
+21:25:08.523 INFO  utilities.ExtentManager -*********** Report Path ***********
+21:25:08.523 INFO  utilities.ExtentManager -C:\selenium\New xero\Demo_Autoamtion/reports/AutomationReport_11_22_2020 21_25_08.html
+21:25:08.524 INFO  utilities.ExtentManager -*********** Report Path ***********
+21:25:08.884 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+21:25:08.884 INFO  base.TestListeners -These methods will be executed in this <test> tag
+21:25:08.884 INFO  base.TestListeners -logTotheSystem
+21:25:09.570 INFO  base.WebDriverFactory -OS Name from system property :: win
+21:25:09.571 INFO  base.WebDriverFactory -Driver Binary :: C:\selenium\New xero\Demo_Autoamtion/drivers/chromedriver.exe
+21:25:19.359 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+21:25:19.488 INFO  base.CustomDriver -Element appeared on the web page
+21:25:19.503 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+21:25:29.653 ERROR base.CustomDriver -Element not appeared on the web page
+21:25:29.666 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+21:25:40.087 ERROR base.CustomDriver -Element not appeared on the web page
+21:25:40.109 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+21:25:50.577 ERROR base.CustomDriver -Element not appeared on the web page
+21:25:50.762 INFO  base.CustomDriver -Send Keys on element :: Enter Email with data :: jcmullage@gmail.com
+21:25:50.915 INFO  base.CustomDriver -Send Keys on element :: Enter Password with data :: 2wsx1qaz~
+21:25:56.943 INFO  base.CustomDriver -Clicked On :: Press Login Button
+21:25:57.797 INFO  base.CustomDriver -Clicked On :: Press Accounting Button
+21:26:00.830 INFO  base.CustomDriver -Clicked On :: Press Bank Account dropdown option
+21:26:14.299 INFO  base.CustomDriver -Clicked On :: Press Add Bank Account Button
+21:26:15.516 INFO  base.CustomDriver -Clicked On :: Navigate to ANZ bank information page
+21:26:25.765 INFO  base.CustomDriver -Send Keys on element :: Enter Account Name with data :: 551526
+21:26:30.917 INFO  base.CustomDriver -Clicked On :: Click
+21:26:51.140 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+21:26:51.233 INFO  base.CustomDriver -Element appeared on the web page
+21:26:51.427 INFO  base.CustomDriver -Send Keys on element :: Enter Account Number with data :: 26868517157424
+21:26:51.432 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+21:26:51.495 INFO  base.CustomDriver -Element appeared on the web page
+21:26:51.668 INFO  base.CustomDriver -Clicked On :: Press Continue Button
+21:26:51.672 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+21:26:54.263 INFO  base.CustomDriver -Element appeared on the web page
+21:26:54.480 INFO  base.CustomDriver -Element :: Add Bank Account Nofification is displayed
+21:26:59.486 INFO  base.TestListeners -onTestSuccess -> Test Method Name: logTotheSystem
+21:26:59.505 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+21:27:09.983 ERROR base.CustomDriver -Element not appeared on the web page
+21:27:09.990 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+21:27:10.035 INFO  base.CustomDriver -Element appeared on the web page
+21:27:10.041 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+21:27:10.100 INFO  base.CustomDriver -Element appeared on the web page
+21:27:10.107 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+21:27:20.559 ERROR base.CustomDriver -Element not appeared on the web page
+21:27:23.612 ERROR base.CustomDriver -Element not found with: id=>email
+21:27:23.617 ERROR base.CustomDriver -Cannot send keys on element :: Enter Email with data :: jcmullage@gmail.com
+21:27:26.669 ERROR base.CustomDriver -Element not found with: id=>password
+21:27:26.672 ERROR base.CustomDriver -Cannot send keys on element :: Enter Password with data :: 2wsx1qaz~
+21:27:29.716 ERROR base.CustomDriver -Element not found with: id=>submitButton
+21:27:29.718 ERROR base.CustomDriver -Cannot click on :: Press Login Button
+21:27:29.718 INFO  utilities.Util -Current Date and Time :: 11_22_2020 21_27_29
+21:27:30.154 INFO  base.CustomDriver -Screen Shot Was Stored at: C:\selenium\New xero\Demo_Autoamtion/reports//screenshots/_Click ERROR_11_22_2020 21_27_29.png
+21:27:30.299 INFO  base.CustomDriver -Clicked On :: Press Accounting Button
+21:27:32.049 INFO  base.CustomDriver -Clicked On :: Press Bank Account dropdown option
+21:27:43.725 INFO  base.CustomDriver -Clicked On :: Press Add Bank Account Button
+21:27:44.451 INFO  base.CustomDriver -Clicked On :: Navigate to ANZ bank information page
+21:27:54.686 INFO  base.CustomDriver -Send Keys on element :: Enter Account Name with data :: 568126
+21:27:59.859 INFO  base.CustomDriver -Clicked On :: Click
+21:28:20.118 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+21:28:20.180 INFO  base.CustomDriver -Element appeared on the web page
+21:28:20.344 INFO  base.CustomDriver -Send Keys on element :: Enter Account Number with data :: 50980503130438
+21:28:20.348 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+21:28:20.418 INFO  base.CustomDriver -Element appeared on the web page
+21:28:20.586 INFO  base.CustomDriver -Clicked On :: Press Continue Button
+21:28:20.590 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+21:28:22.736 INFO  base.CustomDriver -Element appeared on the web page
+21:28:22.955 INFO  base.CustomDriver -Element :: Add Bank Account Nofification is displayed
+21:28:27.958 INFO  base.TestListeners -onTestSuccess -> Test Method Name: logTotheSystem
+21:28:29.265 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test

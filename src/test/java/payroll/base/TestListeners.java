@@ -75,19 +75,6 @@ public class TestListeners extends BaseTest implements ITestListener {
         String logText = "<b>" + "Test Method " + methodName + " Successful" + "</b>";
         Markup m = MarkupHelper.createLabel(logText, ExtentColor.GREEN);
         extentTest.get().log(Status.PASS, m);
-        
-   /*     /// TestRail Integration
-        
-        if (TestRailValues.testRail.contentEquals("1")) {
-
-			TestRail testRailLink = new TestRail();
-			testRailLink.sendTestResult(new Integer(1));
-			log.info("onTestSuccess -> Test Method Name: " + result.getName() + "-> TestRail updated");
-
-		} else {
-
-			log.info("onTestSuccess -> Test Method Name: " + result.getName() + "-> No TestRail Integration");
-		} */
     }
 
     /**
@@ -119,19 +106,6 @@ public class TestListeners extends BaseTest implements ITestListener {
         String logText = "<b>" + "Test Method " + methodName + " Failed" + "</b>";
         Markup m = MarkupHelper.createLabel(logText, ExtentColor.RED);
         extentTest.get().log(Status.FAIL, m);
-        
-       /* /// TestRail Integration
-        
-        if (TestRailValues.testRail.contentEquals("1")) {
-
-			TestRail testRailLink = new TestRail();
-			testRailLink.sendTestResult(new Integer(5));
-			log.info("onTestSuccess -> Test Method Name: " + result.getName() + "-> TestRail updated");
-
-		} else {
-
-			log.info("onTestSuccess -> Test Method Name: " + result.getName() + "-> No TestRail Integration");
-		} */
         
     }
 

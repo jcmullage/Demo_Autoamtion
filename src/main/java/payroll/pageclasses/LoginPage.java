@@ -23,9 +23,6 @@ public class LoginPage extends BasePage {
 		sendData(EMAIL, email, "Enter Email",true);
 		sendData(PASSWORD, password, "Enter Password",true);
 		elementClick(LOGIN, "Press Login Button");
-	
 	}
 	
-	
-
 }

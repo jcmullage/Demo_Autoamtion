@@ -20,9 +20,7 @@ public class HomePage extends BasePage {
 
 	public void NavigateAccountingPage() throws InterruptedException {
 		elementClick(ACCOUNTING, "Press Accounting Button");
-		
 		elementClick(BANK_ACCOUNT, "Press Bank Account dropdown option");
-		
 		Thread.sleep(10000);
 	}
 

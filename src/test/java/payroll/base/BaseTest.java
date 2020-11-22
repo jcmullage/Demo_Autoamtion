@@ -23,12 +23,6 @@ public class BaseTest {
 	public void commonSetUp(String browser,String excel) {
 		
 		ExcelUtility.setExcelFile(Constants.EXCEL_FILE, excel);
-
-	/*	// set test rail values. 
-		TestRailValues.testRunId = testRunId;
-		TestRailValues.testCaseId = testCaseId;
-		TestRailValues.testRail = testRail; */
-		
 		
 		driver = WebDriverFactory.getInstance().getDriver(browser);
 		driver.get(BASE_URL);
