@@ -1,0 +1,1166 @@
+10:39:04.951 INFO  utilities.Util -Current Date and Time :: 11_22_2020 10_39_04
+10:39:04.973 INFO  utilities.ExtentManager -*********** Report Path ***********
+10:39:04.973 INFO  utilities.ExtentManager -C:\selenium\xero/reports/AutomationReport_11_22_2020 10_39_04.html
+10:39:04.973 INFO  utilities.ExtentManager -*********** Report Path ***********
+10:39:05.235 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+10:39:05.235 INFO  base.TestListeners -These methods will be executed in this <test> tag
+10:39:05.235 INFO  base.TestListeners -logTotheSystem
+10:39:05.822 INFO  base.WebDriverFactory -OS Name from system property :: win
+10:39:05.822 INFO  base.WebDriverFactory -Driver Binary :: C:\selenium\xero/drivers/chromedriver.exe
+10:39:13.725 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+10:39:13.807 INFO  base.CustomDriver -Element appeared on the web page
+10:39:13.969 INFO  base.CustomDriver -Send Keys on element :: Enter Email with data :: jcmullage@gmail.com
+10:39:18.751 INFO  base.CustomDriver -Send Keys on element :: Enter Password with data :: 2wsx1qaz~
+10:39:26.663 INFO  base.CustomDriver -Clicked On :: Press Login Button
+10:39:26.670 INFO  base.TestListeners -onTestSuccess -> Test Method Name: logTotheSystem
+10:39:27.917 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test
+12:36:37.217 INFO  utilities.Util -Current Date and Time :: 11_22_2020 12_36_37
+12:36:37.225 INFO  utilities.ExtentManager -*********** Report Path ***********
+12:36:37.225 INFO  utilities.ExtentManager -C:\selenium\xero/reports/AutomationReport_11_22_2020 12_36_37.html
+12:36:37.226 INFO  utilities.ExtentManager -*********** Report Path ***********
+12:36:37.405 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+12:36:37.406 INFO  base.TestListeners -These methods will be executed in this <test> tag
+12:36:37.406 INFO  base.TestListeners -logTotheSystem
+12:36:37.837 INFO  base.WebDriverFactory -OS Name from system property :: win
+12:36:37.837 INFO  base.WebDriverFactory -Driver Binary :: C:\selenium\xero/drivers/chromedriver.exe
+12:36:44.550 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+12:36:44.618 INFO  base.CustomDriver -Element appeared on the web page
+12:36:44.624 INFO  base.CustomDriver -Locator type not supported
+12:36:44.627 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+12:36:44.629 ERROR base.CustomDriver -Element not appeared on the web page
+12:36:44.635 INFO  base.CustomDriver -Locator type not supported
+12:36:44.639 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+12:36:44.640 ERROR base.CustomDriver -Element not appeared on the web page
+12:36:44.646 INFO  base.CustomDriver -Locator type not supported
+12:36:44.649 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+12:36:44.649 ERROR base.CustomDriver -Element not appeared on the web page
+12:36:44.804 INFO  base.CustomDriver -Send Keys on element :: Enter Email with data :: jcmullage@gmail.com
+12:36:47.611 INFO  base.CustomDriver -Send Keys on element :: Enter Password with data :: 2wsx1qaz~
+12:36:53.356 INFO  base.CustomDriver -Clicked On :: Press Login Button
+12:36:53.356 INFO  base.CustomDriver -Locator type not supported
+12:36:53.356 ERROR base.CustomDriver -Element not found with: xPath=>//*[@id="header"]/header/div/ol[1]/li[3]/button
+12:36:53.358 ERROR base.CustomDriver -Cannot click on :: Press Accounting Button
+12:36:53.358 INFO  utilities.Util -Current Date and Time :: 11_22_2020 12_36_53
+12:36:53.954 INFO  base.CustomDriver -Screen Shot Was Stored at: C:\selenium\xero/reports//screenshots/_Click ERROR_11_22_2020 12_36_53.png
+12:36:53.954 INFO  base.CustomDriver -Locator type not supported
+12:36:53.954 ERROR base.CustomDriver -Element not found with: xPath=>//*[@id="ext-gen42"]
+12:36:53.955 ERROR base.CustomDriver -Cannot click on :: Press Bank Account dropdown option
+12:36:53.956 INFO  utilities.Util -Current Date and Time :: 11_22_2020 12_36_53
+12:36:54.486 INFO  base.CustomDriver -Screen Shot Was Stored at: C:\selenium\xero/reports//screenshots/_Click ERROR_11_22_2020 12_36_53.png
+12:36:54.491 INFO  base.TestListeners -onTestSuccess -> Test Method Name: logTotheSystem
+12:36:55.670 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test
+12:41:31.543 INFO  utilities.Util -Current Date and Time :: 11_22_2020 12_41_31
+12:41:31.549 INFO  utilities.ExtentManager -*********** Report Path ***********
+12:41:31.549 INFO  utilities.ExtentManager -C:\selenium\xero/reports/AutomationReport_11_22_2020 12_41_31.html
+12:41:31.550 INFO  utilities.ExtentManager -*********** Report Path ***********
+12:41:31.731 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+12:41:31.731 INFO  base.TestListeners -These methods will be executed in this <test> tag
+12:41:31.732 INFO  base.TestListeners -logTotheSystem
+12:41:32.141 INFO  base.WebDriverFactory -OS Name from system property :: win
+12:41:32.141 INFO  base.WebDriverFactory -Driver Binary :: C:\selenium\xero/drivers/chromedriver.exe
+12:41:37.833 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+12:41:37.899 INFO  base.CustomDriver -Element appeared on the web page
+12:41:37.908 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+12:41:48.431 ERROR base.CustomDriver -Element not appeared on the web page
+12:41:48.441 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+12:41:58.797 ERROR base.CustomDriver -Element not appeared on the web page
+12:41:58.804 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+12:42:11.537 ERROR base.CustomDriver -Element not appeared on the web page
+12:42:15.555 ERROR base.CustomDriver -Element not found with: id=>email
+12:42:15.558 ERROR base.CustomDriver -Cannot send keys on element :: Enter Email with data :: jcmullage@gmail.com
+12:42:19.572 ERROR base.CustomDriver -Element not found with: id=>password
+12:42:19.575 ERROR base.CustomDriver -Cannot send keys on element :: Enter Password with data :: 2wsx1qaz~
+12:42:23.607 ERROR base.CustomDriver -Element not found with: id=>submitButton
+12:42:23.610 ERROR base.CustomDriver -Cannot click on :: Press Login Button
+12:42:23.611 INFO  utilities.Util -Current Date and Time :: 11_22_2020 12_42_23
+12:42:31.639 ERROR base.CustomDriver -Element not found with: xpath=>//*[@id="header"]/header/div/ol[1]/li[3]/button
+12:42:31.640 ERROR base.CustomDriver -Cannot click on :: Press Accounting Button
+12:42:31.640 INFO  utilities.Util -Current Date and Time :: 11_22_2020 12_42_31
+12:42:39.661 ERROR base.CustomDriver -Element not found with: xpath=>//*[@id="ext-gen42"]
+12:42:39.662 ERROR base.CustomDriver -Cannot click on :: Press Bank Account dropdown option
+12:42:39.663 INFO  utilities.Util -Current Date and Time :: 11_22_2020 12_42_39
+12:42:43.687 INFO  base.TestListeners -onTestSuccess -> Test Method Name: logTotheSystem
+12:42:44.641 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test
+12:43:00.138 INFO  utilities.Util -Current Date and Time :: 11_22_2020 12_43_00
+12:43:00.147 INFO  utilities.ExtentManager -*********** Report Path ***********
+12:43:00.147 INFO  utilities.ExtentManager -C:\selenium\xero/reports/AutomationReport_11_22_2020 12_43_00.html
+12:43:00.148 INFO  utilities.ExtentManager -*********** Report Path ***********
+12:43:00.341 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+12:43:00.341 INFO  base.TestListeners -These methods will be executed in this <test> tag
+12:43:00.341 INFO  base.TestListeners -logTotheSystem
+12:43:00.757 INFO  base.WebDriverFactory -OS Name from system property :: win
+12:43:00.758 INFO  base.WebDriverFactory -Driver Binary :: C:\selenium\xero/drivers/chromedriver.exe
+12:43:06.329 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+12:43:06.398 INFO  base.CustomDriver -Element appeared on the web page
+12:43:06.417 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+12:43:16.455 ERROR base.CustomDriver -Element not appeared on the web page
+12:43:16.462 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+12:43:26.806 ERROR base.CustomDriver -Element not appeared on the web page
+12:43:26.813 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+12:43:37.097 ERROR base.CustomDriver -Element not appeared on the web page
+12:43:37.199 INFO  base.CustomDriver -Send Keys on element :: Enter Email with data :: jcmullage@gmail.com
+12:43:37.280 INFO  base.CustomDriver -Send Keys on element :: Enter Password with data :: 2wsx1qaz~
+12:43:43.472 INFO  base.CustomDriver -Clicked On :: Press Login Button
+12:43:43.620 INFO  base.CustomDriver -Clicked On :: Press Accounting Button
+12:43:46.792 ERROR base.CustomDriver -Element not found with: xpath=>//*[@id="ext-gen42"]
+12:43:46.796 ERROR base.CustomDriver -Cannot click on :: Press Bank Account dropdown option
+12:43:46.797 INFO  utilities.Util -Current Date and Time :: 11_22_2020 12_43_46
+12:43:47.139 INFO  base.CustomDriver -Screen Shot Was Stored at: C:\selenium\xero/reports//screenshots/_Click ERROR_11_22_2020 12_43_46.png
+12:43:47.142 INFO  base.TestListeners -onTestSuccess -> Test Method Name: logTotheSystem
+12:43:48.171 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test
+12:57:25.634 INFO  utilities.Util -Current Date and Time :: 11_22_2020 12_57_25
+12:57:25.641 INFO  utilities.ExtentManager -*********** Report Path ***********
+12:57:25.641 INFO  utilities.ExtentManager -C:\selenium\xero/reports/AutomationReport_11_22_2020 12_57_25.html
+12:57:25.641 INFO  utilities.ExtentManager -*********** Report Path ***********
+12:57:25.824 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+12:57:25.824 INFO  base.TestListeners -These methods will be executed in this <test> tag
+12:57:25.824 INFO  base.TestListeners -logTotheSystem
+12:57:26.235 INFO  base.WebDriverFactory -OS Name from system property :: win
+12:57:26.235 INFO  base.WebDriverFactory -Driver Binary :: C:\selenium\xero/drivers/chromedriver.exe
+12:57:31.872 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+12:57:31.939 INFO  base.CustomDriver -Element appeared on the web page
+12:57:31.948 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+12:57:42.003 ERROR base.CustomDriver -Element not appeared on the web page
+12:57:42.010 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+12:57:52.404 ERROR base.CustomDriver -Element not appeared on the web page
+12:57:52.417 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+12:58:02.699 ERROR base.CustomDriver -Element not appeared on the web page
+12:58:02.791 INFO  base.CustomDriver -Send Keys on element :: Enter Email with data :: jcmullage@gmail.com
+12:58:02.879 INFO  base.CustomDriver -Send Keys on element :: Enter Password with data :: 2wsx1qaz~
+12:58:09.569 INFO  base.CustomDriver -Clicked On :: Press Login Button
+12:58:09.675 INFO  base.CustomDriver -Clicked On :: Press Accounting Button
+12:58:11.472 INFO  base.CustomDriver -Clicked On :: Press Bank Account dropdown option
+12:58:21.478 INFO  base.TestListeners -onTestSuccess -> Test Method Name: logTotheSystem
+12:58:22.630 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test
+12:59:33.822 INFO  utilities.Util -Current Date and Time :: 11_22_2020 12_59_33
+12:59:33.829 INFO  utilities.ExtentManager -*********** Report Path ***********
+12:59:33.830 INFO  utilities.ExtentManager -C:\selenium\xero/reports/AutomationReport_11_22_2020 12_59_33.html
+12:59:33.830 INFO  utilities.ExtentManager -*********** Report Path ***********
+12:59:34.070 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+12:59:34.070 INFO  base.TestListeners -These methods will be executed in this <test> tag
+12:59:34.071 INFO  base.TestListeners -logTotheSystem
+12:59:34.528 INFO  base.WebDriverFactory -OS Name from system property :: win
+12:59:34.529 INFO  base.WebDriverFactory -Driver Binary :: C:\selenium\xero/drivers/chromedriver.exe
+12:59:40.185 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+12:59:40.242 INFO  base.CustomDriver -Element appeared on the web page
+12:59:40.251 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+12:59:50.715 ERROR base.CustomDriver -Element not appeared on the web page
+12:59:50.722 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+13:00:01.027 ERROR base.CustomDriver -Element not appeared on the web page
+13:00:01.037 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+13:00:11.305 ERROR base.CustomDriver -Element not appeared on the web page
+13:00:11.402 INFO  base.CustomDriver -Send Keys on element :: Enter Email with data :: jcmullage@gmail.com
+13:00:11.491 INFO  base.CustomDriver -Send Keys on element :: Enter Password with data :: 2wsx1qaz~
+13:00:16.921 INFO  base.CustomDriver -Clicked On :: Press Login Button
+13:00:17.257 INFO  base.CustomDriver -Clicked On :: Press Accounting Button
+13:00:19.046 INFO  base.CustomDriver -Clicked On :: Press Bank Account dropdown option
+13:00:32.081 ERROR base.CustomDriver -Cannot click on :: Press Add Bank Account Button
+13:00:32.081 INFO  utilities.Util -Current Date and Time :: 11_22_2020 13_00_32
+13:00:32.434 INFO  base.CustomDriver -Screen Shot Was Stored at: C:\selenium\xero/reports//screenshots/_Click ERROR_11_22_2020 13_00_32.png
+13:00:32.437 INFO  base.TestListeners -onTestSuccess -> Test Method Name: logTotheSystem
+13:00:33.583 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test
+13:12:42.734 INFO  utilities.Util -Current Date and Time :: 11_22_2020 13_12_42
+13:12:42.744 INFO  utilities.ExtentManager -*********** Report Path ***********
+13:12:42.745 INFO  utilities.ExtentManager -C:\selenium\xero/reports/AutomationReport_11_22_2020 13_12_42.html
+13:12:42.745 INFO  utilities.ExtentManager -*********** Report Path ***********
+13:12:42.933 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+13:12:42.933 INFO  base.TestListeners -These methods will be executed in this <test> tag
+13:12:42.933 INFO  base.TestListeners -logTotheSystem
+13:12:43.368 INFO  base.WebDriverFactory -OS Name from system property :: win
+13:12:43.369 INFO  base.WebDriverFactory -Driver Binary :: C:\selenium\xero/drivers/chromedriver.exe
+13:12:49.042 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+13:12:49.098 INFO  base.CustomDriver -Element appeared on the web page
+13:12:49.108 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+13:12:59.433 ERROR base.CustomDriver -Element not appeared on the web page
+13:12:59.440 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+13:13:09.733 ERROR base.CustomDriver -Element not appeared on the web page
+13:13:09.743 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+13:13:19.980 ERROR base.CustomDriver -Element not appeared on the web page
+13:13:20.073 INFO  base.CustomDriver -Send Keys on element :: Enter Email with data :: jcmullage@gmail.com
+13:13:20.160 INFO  base.CustomDriver -Send Keys on element :: Enter Password with data :: 2wsx1qaz~
+13:13:25.309 INFO  base.CustomDriver -Clicked On :: Press Login Button
+13:13:25.412 INFO  base.CustomDriver -Clicked On :: Press Accounting Button
+13:13:27.239 INFO  base.CustomDriver -Clicked On :: Press Bank Account dropdown option
+13:13:38.452 INFO  base.CustomDriver -Clicked On :: Press Add Bank Account Button
+13:13:38.455 INFO  base.TestListeners -onTestSuccess -> Test Method Name: logTotheSystem
+13:13:39.623 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test
+13:45:37.291 INFO  utilities.Util -Current Date and Time :: 11_22_2020 13_45_37
+13:45:37.299 INFO  utilities.ExtentManager -*********** Report Path ***********
+13:45:37.299 INFO  utilities.ExtentManager -C:\selenium\xero/reports/AutomationReport_11_22_2020 13_45_37.html
+13:45:37.299 INFO  utilities.ExtentManager -*********** Report Path ***********
+13:45:37.490 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+13:45:37.491 INFO  base.TestListeners -These methods will be executed in this <test> tag
+13:45:37.491 INFO  base.TestListeners -logTotheSystem
+13:45:37.913 INFO  base.WebDriverFactory -OS Name from system property :: win
+13:45:37.913 INFO  base.WebDriverFactory -Driver Binary :: C:\selenium\xero/drivers/chromedriver.exe
+13:45:43.861 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+13:45:43.926 INFO  base.CustomDriver -Element appeared on the web page
+13:45:43.933 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+13:45:54.228 ERROR base.CustomDriver -Element not appeared on the web page
+13:45:54.235 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+13:46:04.636 ERROR base.CustomDriver -Element not appeared on the web page
+13:46:04.651 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+13:46:14.912 ERROR base.CustomDriver -Element not appeared on the web page
+13:46:14.998 INFO  base.CustomDriver -Send Keys on element :: Enter Email with data :: jcmullage@gmail.com
+13:46:15.078 INFO  base.CustomDriver -Send Keys on element :: Enter Password with data :: 2wsx1qaz~
+13:46:21.219 INFO  base.CustomDriver -Clicked On :: Press Login Button
+13:46:21.313 INFO  base.CustomDriver -Clicked On :: Press Accounting Button
+13:46:24.778 INFO  base.CustomDriver -Clicked On :: Press Bank Account dropdown option
+13:46:35.850 INFO  base.CustomDriver -Clicked On :: Press Add Bank Account Button
+13:46:36.144 INFO  base.CustomDriver -Send Keys on element :: Add Bank Name Information with data :: ANZ
+13:46:39.192 ERROR base.CustomDriver -Element not found with: xpath=>//*[@id="dataview-1085"]/li
+13:46:39.193 ERROR base.CustomDriver -Cannot click on :: Press Continue Button
+13:46:39.194 INFO  utilities.Util -Current Date and Time :: 11_22_2020 13_46_39
+13:46:39.506 INFO  base.CustomDriver -Screen Shot Was Stored at: C:\selenium\xero/reports//screenshots/_Click ERROR_11_22_2020 13_46_39.png
+13:46:39.508 INFO  base.TestListeners -onTestSuccess -> Test Method Name: logTotheSystem
+13:46:40.564 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test
+13:54:53.409 INFO  utilities.Util -Current Date and Time :: 11_22_2020 13_54_53
+13:54:53.415 INFO  utilities.ExtentManager -*********** Report Path ***********
+13:54:53.415 INFO  utilities.ExtentManager -C:\selenium\xero/reports/AutomationReport_11_22_2020 13_54_53.html
+13:54:53.415 INFO  utilities.ExtentManager -*********** Report Path ***********
+13:54:53.648 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+13:54:53.648 INFO  base.TestListeners -These methods will be executed in this <test> tag
+13:54:53.648 INFO  base.TestListeners -logTotheSystem
+13:54:54.088 INFO  base.WebDriverFactory -OS Name from system property :: win
+13:54:54.088 INFO  base.WebDriverFactory -Driver Binary :: C:\selenium\xero/drivers/chromedriver.exe
+13:54:59.825 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+13:54:59.887 INFO  base.CustomDriver -Element appeared on the web page
+13:54:59.898 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+13:55:10.331 ERROR base.CustomDriver -Element not appeared on the web page
+13:55:10.338 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+13:55:20.650 ERROR base.CustomDriver -Element not appeared on the web page
+13:55:20.664 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+13:55:30.997 ERROR base.CustomDriver -Element not appeared on the web page
+13:55:31.091 INFO  base.CustomDriver -Send Keys on element :: Enter Email with data :: jcmullage@gmail.com
+13:55:31.170 INFO  base.CustomDriver -Send Keys on element :: Enter Password with data :: 2wsx1qaz~
+13:55:37.173 INFO  base.CustomDriver -Clicked On :: Press Login Button
+13:55:37.627 INFO  base.CustomDriver -Clicked On :: Press Accounting Button
+13:55:40.033 INFO  base.CustomDriver -Clicked On :: Press Bank Account dropdown option
+13:55:51.328 INFO  base.CustomDriver -Clicked On :: Press Add Bank Account Button
+13:55:51.814 INFO  base.CustomDriver -Send Keys on element :: Add Bank Name Information with data :: ANZ
+13:55:54.858 ERROR base.CustomDriver -Element not found with: xpath=>//ul[@class='x-component xui-contentblock ba-banklist--list x-component-default'and @componentid='dataview-1085']
+13:55:54.859 ERROR base.CustomDriver -Cannot click on :: Press Continue Button
+13:55:54.859 INFO  utilities.Util -Current Date and Time :: 11_22_2020 13_55_54
+13:55:55.187 INFO  base.CustomDriver -Screen Shot Was Stored at: C:\selenium\xero/reports//screenshots/_Click ERROR_11_22_2020 13_55_54.png
+13:55:55.189 INFO  base.TestListeners -onTestSuccess -> Test Method Name: logTotheSystem
+13:55:56.246 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test
+14:00:41.936 INFO  utilities.Util -Current Date and Time :: 11_22_2020 14_00_41
+14:00:41.943 INFO  utilities.ExtentManager -*********** Report Path ***********
+14:00:41.943 INFO  utilities.ExtentManager -C:\selenium\xero/reports/AutomationReport_11_22_2020 14_00_41.html
+14:00:41.943 INFO  utilities.ExtentManager -*********** Report Path ***********
+14:00:42.117 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+14:00:42.117 INFO  base.TestListeners -These methods will be executed in this <test> tag
+14:00:42.117 INFO  base.TestListeners -logTotheSystem
+14:00:42.502 INFO  base.WebDriverFactory -OS Name from system property :: win
+14:00:42.502 INFO  base.WebDriverFactory -Driver Binary :: C:\selenium\xero/drivers/chromedriver.exe
+14:00:48.031 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+14:00:48.105 INFO  base.CustomDriver -Element appeared on the web page
+14:00:48.115 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+14:00:58.314 ERROR base.CustomDriver -Element not appeared on the web page
+14:00:58.325 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+14:01:08.716 ERROR base.CustomDriver -Element not appeared on the web page
+14:01:08.726 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+14:01:18.964 ERROR base.CustomDriver -Element not appeared on the web page
+14:01:19.061 INFO  base.CustomDriver -Send Keys on element :: Enter Email with data :: jcmullage@gmail.com
+14:01:19.142 INFO  base.CustomDriver -Send Keys on element :: Enter Password with data :: 2wsx1qaz~
+14:01:26.859 INFO  base.CustomDriver -Clicked On :: Press Login Button
+14:01:27.109 INFO  base.CustomDriver -Clicked On :: Press Accounting Button
+14:01:28.728 INFO  base.CustomDriver -Clicked On :: Press Bank Account dropdown option
+14:01:39.743 INFO  base.CustomDriver -Clicked On :: Press Add Bank Account Button
+14:01:40.065 INFO  base.CustomDriver -Send Keys on element :: Add Bank Name Information with data :: ANZ
+14:01:45.118 ERROR base.CustomDriver -Element not found with: xpath=>//li[text()='ANZ (NZ)' and @class='ba-banklist--item xui-contentblock--item'and @data-boundview='dataview-1085']
+14:01:45.120 ERROR base.CustomDriver -Cannot click on :: Press Continue Button
+14:01:45.120 INFO  utilities.Util -Current Date and Time :: 11_22_2020 14_01_45
+14:01:45.453 INFO  base.CustomDriver -Screen Shot Was Stored at: C:\selenium\xero/reports//screenshots/_Click ERROR_11_22_2020 14_01_45.png
+14:01:45.455 INFO  base.TestListeners -onTestSuccess -> Test Method Name: logTotheSystem
+14:01:46.513 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test
+14:05:11.957 INFO  utilities.Util -Current Date and Time :: 11_22_2020 14_05_11
+14:05:11.963 INFO  utilities.ExtentManager -*********** Report Path ***********
+14:05:11.963 INFO  utilities.ExtentManager -C:\selenium\xero/reports/AutomationReport_11_22_2020 14_05_11.html
+14:05:11.964 INFO  utilities.ExtentManager -*********** Report Path ***********
+14:05:12.147 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+14:05:12.147 INFO  base.TestListeners -These methods will be executed in this <test> tag
+14:05:12.147 INFO  base.TestListeners -logTotheSystem
+14:05:12.537 INFO  base.WebDriverFactory -OS Name from system property :: win
+14:05:12.537 INFO  base.WebDriverFactory -Driver Binary :: C:\selenium\xero/drivers/chromedriver.exe
+14:05:18.052 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+14:05:18.120 INFO  base.CustomDriver -Element appeared on the web page
+14:05:18.131 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+14:05:28.267 ERROR base.CustomDriver -Element not appeared on the web page
+14:05:28.276 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+14:05:38.596 ERROR base.CustomDriver -Element not appeared on the web page
+14:05:38.604 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+14:05:48.981 ERROR base.CustomDriver -Element not appeared on the web page
+14:05:49.091 INFO  base.CustomDriver -Send Keys on element :: Enter Email with data :: jcmullage@gmail.com
+14:05:49.181 INFO  base.CustomDriver -Send Keys on element :: Enter Password with data :: 2wsx1qaz~
+14:05:55.908 INFO  base.CustomDriver -Clicked On :: Press Login Button
+14:05:56.009 INFO  base.CustomDriver -Clicked On :: Press Accounting Button
+14:05:58.059 INFO  base.CustomDriver -Clicked On :: Press Bank Account dropdown option
+14:06:08.859 INFO  base.CustomDriver -Clicked On :: Press Add Bank Account Button
+14:06:09.310 INFO  base.CustomDriver -Send Keys on element :: Add Bank Name Information with data :: ANZ
+14:06:14.365 ERROR base.CustomDriver -Element not found with: id=>dataview-1085
+14:06:14.372 ERROR base.CustomDriver -Cannot click on :: Press Continue Button
+14:06:14.373 INFO  utilities.Util -Current Date and Time :: 11_22_2020 14_06_14
+14:06:14.718 INFO  base.CustomDriver -Screen Shot Was Stored at: C:\selenium\xero/reports//screenshots/_Click ERROR_11_22_2020 14_06_14.png
+14:06:14.721 INFO  base.TestListeners -onTestSuccess -> Test Method Name: logTotheSystem
+14:06:15.794 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test
+14:36:33.496 INFO  utilities.Util -Current Date and Time :: 11_22_2020 14_36_33
+14:36:33.510 INFO  utilities.ExtentManager -*********** Report Path ***********
+14:36:33.511 INFO  utilities.ExtentManager -C:\selenium\xero/reports/AutomationReport_11_22_2020 14_36_33.html
+14:36:33.511 INFO  utilities.ExtentManager -*********** Report Path ***********
+14:36:33.734 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+14:36:33.734 INFO  base.TestListeners -These methods will be executed in this <test> tag
+14:36:33.734 INFO  base.TestListeners -logTotheSystem
+14:36:34.191 INFO  base.WebDriverFactory -OS Name from system property :: win
+14:36:34.191 INFO  base.WebDriverFactory -Driver Binary :: C:\selenium\xero/drivers/chromedriver.exe
+14:36:40.536 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+14:36:40.621 INFO  base.CustomDriver -Element appeared on the web page
+14:36:40.639 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+14:36:51.130 ERROR base.CustomDriver -Element not appeared on the web page
+14:36:51.138 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+14:37:01.403 ERROR base.CustomDriver -Element not appeared on the web page
+14:37:01.416 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+14:37:11.830 ERROR base.CustomDriver -Element not appeared on the web page
+14:37:11.964 INFO  base.CustomDriver -Send Keys on element :: Enter Email with data :: jcmullage@gmail.com
+14:37:12.104 INFO  base.CustomDriver -Send Keys on element :: Enter Password with data :: 2wsx1qaz~
+14:37:18.281 INFO  base.CustomDriver -Clicked On :: Press Login Button
+14:37:18.533 INFO  base.CustomDriver -Clicked On :: Press Accounting Button
+14:37:20.514 INFO  base.CustomDriver -Clicked On :: Press Bank Account dropdown option
+14:37:31.826 INFO  base.CustomDriver -Clicked On :: Press Add Bank Account Button
+14:37:32.269 INFO  base.CustomDriver -Send Keys on element :: Add Bank Name Information with data :: ANZ
+14:37:37.290 ERROR base.CustomDriver -Element not found with: xpath=>//div[@id='ba-banklist-1143']/child::ul/child::li
+14:37:37.292 ERROR base.CustomDriver -Cannot click on :: Press Continue Button
+14:37:37.292 INFO  utilities.Util -Current Date and Time :: 11_22_2020 14_37_37
+14:37:37.635 INFO  base.CustomDriver -Screen Shot Was Stored at: C:\selenium\xero/reports//screenshots/_Click ERROR_11_22_2020 14_37_37.png
+14:37:37.638 INFO  base.TestListeners -onTestSuccess -> Test Method Name: logTotheSystem
+14:37:38.803 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test
+14:59:29.816 INFO  utilities.Util -Current Date and Time :: 11_22_2020 14_59_29
+14:59:29.824 INFO  utilities.ExtentManager -*********** Report Path ***********
+14:59:29.824 INFO  utilities.ExtentManager -C:\selenium\xero/reports/AutomationReport_11_22_2020 14_59_29.html
+14:59:29.824 INFO  utilities.ExtentManager -*********** Report Path ***********
+14:59:30.013 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+14:59:30.013 INFO  base.TestListeners -These methods will be executed in this <test> tag
+14:59:30.013 INFO  base.TestListeners -logTotheSystem
+14:59:30.422 INFO  base.WebDriverFactory -OS Name from system property :: win
+14:59:30.422 INFO  base.WebDriverFactory -Driver Binary :: C:\selenium\xero/drivers/chromedriver.exe
+14:59:36.175 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+14:59:36.245 INFO  base.CustomDriver -Element appeared on the web page
+14:59:36.260 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+14:59:46.453 ERROR base.CustomDriver -Element not appeared on the web page
+14:59:46.460 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+14:59:56.746 ERROR base.CustomDriver -Element not appeared on the web page
+14:59:56.752 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+15:00:07.065 ERROR base.CustomDriver -Element not appeared on the web page
+15:00:07.162 INFO  base.CustomDriver -Send Keys on element :: Enter Email with data :: jcmullage@gmail.com
+15:00:07.244 INFO  base.CustomDriver -Send Keys on element :: Enter Password with data :: 2wsx1qaz~
+15:00:12.686 INFO  base.CustomDriver -Clicked On :: Press Login Button
+15:00:13.003 INFO  base.CustomDriver -Clicked On :: Press Accounting Button
+15:00:14.555 INFO  base.CustomDriver -Clicked On :: Press Bank Account dropdown option
+15:00:25.754 INFO  base.CustomDriver -Clicked On :: Press Add Bank Account Button
+15:00:25.988 INFO  base.CustomDriver -Send Keys on element :: Add Bank Name Information with data :: ANZ
+15:00:28.077 INFO  base.CustomDriver -Send Keys on element ::  with data :: Keys.Tab
+15:00:28.080 INFO  base.TestListeners -onTestSuccess -> Test Method Name: logTotheSystem
+15:00:29.167 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test
+15:01:34.281 INFO  utilities.Util -Current Date and Time :: 11_22_2020 15_01_34
+15:01:34.287 INFO  utilities.ExtentManager -*********** Report Path ***********
+15:01:34.287 INFO  utilities.ExtentManager -C:\selenium\xero/reports/AutomationReport_11_22_2020 15_01_34.html
+15:01:34.287 INFO  utilities.ExtentManager -*********** Report Path ***********
+15:01:34.469 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+15:01:34.469 INFO  base.TestListeners -These methods will be executed in this <test> tag
+15:01:34.469 INFO  base.TestListeners -logTotheSystem
+15:01:34.878 INFO  base.WebDriverFactory -OS Name from system property :: win
+15:01:34.878 INFO  base.WebDriverFactory -Driver Binary :: C:\selenium\xero/drivers/chromedriver.exe
+15:01:40.484 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+15:01:40.550 INFO  base.CustomDriver -Element appeared on the web page
+15:01:40.562 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+15:01:50.784 ERROR base.CustomDriver -Element not appeared on the web page
+15:01:50.791 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+15:02:01.122 ERROR base.CustomDriver -Element not appeared on the web page
+15:02:01.131 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+15:02:11.404 ERROR base.CustomDriver -Element not appeared on the web page
+15:02:11.494 INFO  base.CustomDriver -Send Keys on element :: Enter Email with data :: jcmullage@gmail.com
+15:02:11.584 INFO  base.CustomDriver -Send Keys on element :: Enter Password with data :: 2wsx1qaz~
+15:02:20.790 INFO  base.CustomDriver -Clicked On :: Press Login Button
+15:02:21.119 INFO  base.CustomDriver -Clicked On :: Press Accounting Button
+15:02:22.693 INFO  base.CustomDriver -Clicked On :: Press Bank Account dropdown option
+15:02:33.785 INFO  base.CustomDriver -Clicked On :: Press Add Bank Account Button
+15:02:34.084 INFO  base.CustomDriver -Send Keys on element :: Add Bank Name Information with data :: ANZ
+15:02:36.166 INFO  base.CustomDriver -Send Keys on element ::  with data :: Keys.Tab
+15:02:36.236 INFO  base.CustomDriver -Send Keys on element ::  with data :: Keys.Enter
+15:02:46.243 INFO  base.TestListeners -onTestSuccess -> Test Method Name: logTotheSystem
+15:02:47.395 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test
+15:13:14.981 INFO  utilities.Util -Current Date and Time :: 11_22_2020 15_13_14
+15:13:14.988 INFO  utilities.ExtentManager -*********** Report Path ***********
+15:13:14.988 INFO  utilities.ExtentManager -C:\selenium\xero/reports/AutomationReport_11_22_2020 15_13_14.html
+15:13:14.988 INFO  utilities.ExtentManager -*********** Report Path ***********
+15:13:15.203 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+15:13:15.203 INFO  base.TestListeners -These methods will be executed in this <test> tag
+15:13:15.203 INFO  base.TestListeners -logTotheSystem
+15:13:15.629 INFO  base.WebDriverFactory -OS Name from system property :: win
+15:13:15.629 INFO  base.WebDriverFactory -Driver Binary :: C:\selenium\xero/drivers/chromedriver.exe
+15:13:21.369 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+15:13:21.431 INFO  base.CustomDriver -Element appeared on the web page
+15:13:21.438 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+15:13:31.772 ERROR base.CustomDriver -Element not appeared on the web page
+15:13:31.779 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+15:13:42.051 ERROR base.CustomDriver -Element not appeared on the web page
+15:13:42.062 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+15:13:52.358 ERROR base.CustomDriver -Element not appeared on the web page
+15:13:52.459 INFO  base.CustomDriver -Send Keys on element :: Enter Email with data :: jcmullage@gmail.com
+15:13:52.543 INFO  base.CustomDriver -Send Keys on element :: Enter Password with data :: 2wsx1qaz~
+15:13:58.181 INFO  base.CustomDriver -Clicked On :: Press Login Button
+15:13:58.458 INFO  base.CustomDriver -Clicked On :: Press Accounting Button
+15:14:00.320 INFO  base.CustomDriver -Clicked On :: Press Bank Account dropdown option
+15:14:11.935 INFO  base.CustomDriver -Clicked On :: Press Add Bank Account Button
+15:14:12.362 INFO  base.CustomDriver -Send Keys on element :: Add Bank Name Information with data :: ANZ
+15:14:24.482 INFO  base.TestListeners -onTestSuccess -> Test Method Name: logTotheSystem
+15:14:25.655 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test
+15:17:57.123 INFO  utilities.Util -Current Date and Time :: 11_22_2020 15_17_57
+15:17:57.132 INFO  utilities.ExtentManager -*********** Report Path ***********
+15:17:57.132 INFO  utilities.ExtentManager -C:\selenium\xero/reports/AutomationReport_11_22_2020 15_17_57.html
+15:17:57.132 INFO  utilities.ExtentManager -*********** Report Path ***********
+15:17:57.324 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+15:17:57.324 INFO  base.TestListeners -These methods will be executed in this <test> tag
+15:17:57.324 INFO  base.TestListeners -logTotheSystem
+15:17:57.753 INFO  base.WebDriverFactory -OS Name from system property :: win
+15:17:57.753 INFO  base.WebDriverFactory -Driver Binary :: C:\selenium\xero/drivers/chromedriver.exe
+15:18:03.529 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+15:18:03.578 INFO  base.CustomDriver -Element appeared on the web page
+15:18:03.598 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+15:18:13.623 ERROR base.CustomDriver -Element not appeared on the web page
+15:18:13.632 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+15:18:23.874 ERROR base.CustomDriver -Element not appeared on the web page
+15:18:23.882 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+15:18:34.159 ERROR base.CustomDriver -Element not appeared on the web page
+15:18:34.249 INFO  base.CustomDriver -Send Keys on element :: Enter Email with data :: jcmullage@gmail.com
+15:18:34.329 INFO  base.CustomDriver -Send Keys on element :: Enter Password with data :: 2wsx1qaz~
+15:18:41.354 INFO  base.CustomDriver -Clicked On :: Press Login Button
+15:18:41.553 INFO  base.CustomDriver -Clicked On :: Press Accounting Button
+15:18:43.343 INFO  base.CustomDriver -Clicked On :: Press Bank Account dropdown option
+15:18:54.308 INFO  base.CustomDriver -Clicked On :: Press Add Bank Account Button
+15:18:55.364 INFO  base.CustomDriver -Send Keys on element :: Add Bank Name Information with data :: ANZ
+15:19:07.464 INFO  base.TestListeners -onTestSuccess -> Test Method Name: logTotheSystem
+15:19:08.587 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test
+15:20:19.149 INFO  utilities.Util -Current Date and Time :: 11_22_2020 15_20_19
+15:20:19.156 INFO  utilities.ExtentManager -*********** Report Path ***********
+15:20:19.156 INFO  utilities.ExtentManager -C:\selenium\xero/reports/AutomationReport_11_22_2020 15_20_19.html
+15:20:19.156 INFO  utilities.ExtentManager -*********** Report Path ***********
+15:20:19.348 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+15:20:19.348 INFO  base.TestListeners -These methods will be executed in this <test> tag
+15:20:19.348 INFO  base.TestListeners -logTotheSystem
+15:20:19.786 INFO  base.WebDriverFactory -OS Name from system property :: win
+15:20:19.786 INFO  base.WebDriverFactory -Driver Binary :: C:\selenium\xero/drivers/chromedriver.exe
+15:20:26.029 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+15:20:26.087 INFO  base.CustomDriver -Element appeared on the web page
+15:20:26.097 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+15:20:36.417 ERROR base.CustomDriver -Element not appeared on the web page
+15:20:36.429 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+15:20:46.724 ERROR base.CustomDriver -Element not appeared on the web page
+15:20:46.736 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+15:20:56.988 ERROR base.CustomDriver -Element not appeared on the web page
+15:20:57.086 INFO  base.CustomDriver -Send Keys on element :: Enter Email with data :: jcmullage@gmail.com
+15:20:57.170 INFO  base.CustomDriver -Send Keys on element :: Enter Password with data :: 2wsx1qaz~
+15:21:03.579 INFO  base.CustomDriver -Clicked On :: Press Login Button
+15:21:03.727 INFO  base.CustomDriver -Clicked On :: Press Accounting Button
+15:21:05.465 INFO  base.CustomDriver -Clicked On :: Press Bank Account dropdown option
+15:21:16.727 INFO  base.CustomDriver -Clicked On :: Press Add Bank Account Button
+15:21:16.964 INFO  base.CustomDriver -Send Keys on element :: Add Bank Name Information with data :: ANZ
+15:21:31.069 INFO  base.TestListeners -onTestSuccess -> Test Method Name: logTotheSystem
+15:21:32.284 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test
+15:22:13.528 INFO  utilities.Util -Current Date and Time :: 11_22_2020 15_22_13
+15:22:13.535 INFO  utilities.ExtentManager -*********** Report Path ***********
+15:22:13.535 INFO  utilities.ExtentManager -C:\selenium\xero/reports/AutomationReport_11_22_2020 15_22_13.html
+15:22:13.535 INFO  utilities.ExtentManager -*********** Report Path ***********
+15:22:13.727 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+15:22:13.728 INFO  base.TestListeners -These methods will be executed in this <test> tag
+15:22:13.728 INFO  base.TestListeners -logTotheSystem
+15:22:14.173 INFO  base.WebDriverFactory -OS Name from system property :: win
+15:22:14.174 INFO  base.WebDriverFactory -Driver Binary :: C:\selenium\xero/drivers/chromedriver.exe
+15:22:19.922 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+15:22:19.988 INFO  base.CustomDriver -Element appeared on the web page
+15:22:19.996 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+15:22:30.011 ERROR base.CustomDriver -Element not appeared on the web page
+15:22:30.019 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+15:22:40.305 ERROR base.CustomDriver -Element not appeared on the web page
+15:22:40.312 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+15:22:50.618 ERROR base.CustomDriver -Element not appeared on the web page
+15:22:50.711 INFO  base.CustomDriver -Send Keys on element :: Enter Email with data :: jcmullage@gmail.com
+15:22:50.791 INFO  base.CustomDriver -Send Keys on element :: Enter Password with data :: 2wsx1qaz~
+15:22:56.101 INFO  base.CustomDriver -Clicked On :: Press Login Button
+15:22:56.218 INFO  base.CustomDriver -Clicked On :: Press Accounting Button
+15:22:58.108 INFO  base.CustomDriver -Clicked On :: Press Bank Account dropdown option
+15:23:09.092 INFO  base.CustomDriver -Clicked On :: Press Add Bank Account Button
+15:23:09.432 INFO  base.CustomDriver -Send Keys on element :: Add Bank Name Information with data :: ANZ
+15:23:23.551 INFO  base.TestListeners -onTestSuccess -> Test Method Name: logTotheSystem
+15:23:24.740 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test
+15:25:57.358 INFO  utilities.Util -Current Date and Time :: 11_22_2020 15_25_57
+15:25:57.368 INFO  utilities.ExtentManager -*********** Report Path ***********
+15:25:57.368 INFO  utilities.ExtentManager -C:\selenium\xero/reports/AutomationReport_11_22_2020 15_25_57.html
+15:25:57.368 INFO  utilities.ExtentManager -*********** Report Path ***********
+15:25:57.555 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+15:25:57.555 INFO  base.TestListeners -These methods will be executed in this <test> tag
+15:25:57.555 INFO  base.TestListeners -logTotheSystem
+15:25:57.990 INFO  base.WebDriverFactory -OS Name from system property :: win
+15:25:57.990 INFO  base.WebDriverFactory -Driver Binary :: C:\selenium\xero/drivers/chromedriver.exe
+15:26:03.801 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+15:26:03.867 INFO  base.CustomDriver -Element appeared on the web page
+15:26:03.882 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+15:26:14.000 ERROR base.CustomDriver -Element not appeared on the web page
+15:26:14.009 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+15:26:24.380 ERROR base.CustomDriver -Element not appeared on the web page
+15:26:24.394 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+15:26:34.681 ERROR base.CustomDriver -Element not appeared on the web page
+15:26:34.783 INFO  base.CustomDriver -Send Keys on element :: Enter Email with data :: jcmullage@gmail.com
+15:26:34.875 INFO  base.CustomDriver -Send Keys on element :: Enter Password with data :: 2wsx1qaz~
+15:26:40.684 INFO  base.CustomDriver -Clicked On :: Press Login Button
+15:26:40.930 INFO  base.CustomDriver -Clicked On :: Press Accounting Button
+15:26:42.585 INFO  base.CustomDriver -Clicked On :: Press Bank Account dropdown option
+15:26:54.596 INFO  base.CustomDriver -Clicked On :: Press Add Bank Account Button
+15:26:54.829 INFO  base.CustomDriver -Send Keys on element :: Add Bank Name Information with data :: ANZ
+15:27:01.850 INFO  base.TestListeners -onTestFailure -> Test Method Name: logTotheSystem
+15:27:01.857 INFO  base.WebDriverFactory -OS Name from system property :: win
+15:27:01.857 INFO  base.WebDriverFactory -Driver Binary :: C:\selenium\xero/drivers/chromedriver.exe
+15:27:01.857 INFO  utilities.Util -Current Date and Time :: 11_22_2020 15_27_01
+15:27:02.175 INFO  base.CustomDriver -Screen Shot Was Stored at: C:\selenium\xero/reports//screenshots/chrome_logTotheSystem_11_22_2020 15_27_01.png
+15:27:03.410 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test
+15:27:36.833 INFO  utilities.Util -Current Date and Time :: 11_22_2020 15_27_36
+15:27:36.840 INFO  utilities.ExtentManager -*********** Report Path ***********
+15:27:36.840 INFO  utilities.ExtentManager -C:\selenium\xero/reports/AutomationReport_11_22_2020 15_27_36.html
+15:27:36.840 INFO  utilities.ExtentManager -*********** Report Path ***********
+15:27:37.040 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+15:27:37.040 INFO  base.TestListeners -These methods will be executed in this <test> tag
+15:27:37.040 INFO  base.TestListeners -logTotheSystem
+15:27:37.479 INFO  base.WebDriverFactory -OS Name from system property :: win
+15:27:37.479 INFO  base.WebDriverFactory -Driver Binary :: C:\selenium\xero/drivers/chromedriver.exe
+15:27:44.223 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+15:27:44.283 INFO  base.CustomDriver -Element appeared on the web page
+15:27:44.291 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+15:27:54.394 ERROR base.CustomDriver -Element not appeared on the web page
+15:27:54.402 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+15:28:04.695 ERROR base.CustomDriver -Element not appeared on the web page
+15:28:04.705 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+15:28:14.966 ERROR base.CustomDriver -Element not appeared on the web page
+15:28:15.071 INFO  base.CustomDriver -Send Keys on element :: Enter Email with data :: jcmullage@gmail.com
+15:28:15.158 INFO  base.CustomDriver -Send Keys on element :: Enter Password with data :: 2wsx1qaz~
+15:28:22.724 INFO  base.CustomDriver -Clicked On :: Press Login Button
+15:28:22.840 INFO  base.CustomDriver -Clicked On :: Press Accounting Button
+15:28:25.053 INFO  base.CustomDriver -Clicked On :: Press Bank Account dropdown option
+15:28:36.707 INFO  base.CustomDriver -Clicked On :: Press Add Bank Account Button
+15:28:36.946 INFO  base.CustomDriver -Send Keys on element :: Add Bank Name Information with data :: ANZ
+15:28:43.981 INFO  base.TestListeners -onTestFailure -> Test Method Name: logTotheSystem
+15:28:43.989 INFO  base.WebDriverFactory -OS Name from system property :: win
+15:28:43.989 INFO  base.WebDriverFactory -Driver Binary :: C:\selenium\xero/drivers/chromedriver.exe
+15:28:43.990 INFO  utilities.Util -Current Date and Time :: 11_22_2020 15_28_43
+15:28:44.335 INFO  base.CustomDriver -Screen Shot Was Stored at: C:\selenium\xero/reports//screenshots/chrome_logTotheSystem_11_22_2020 15_28_43.png
+15:28:45.458 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test
+15:30:37.566 INFO  utilities.Util -Current Date and Time :: 11_22_2020 15_30_37
+15:30:37.573 INFO  utilities.ExtentManager -*********** Report Path ***********
+15:30:37.573 INFO  utilities.ExtentManager -C:\selenium\xero/reports/AutomationReport_11_22_2020 15_30_37.html
+15:30:37.573 INFO  utilities.ExtentManager -*********** Report Path ***********
+15:30:37.770 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+15:30:37.771 INFO  base.TestListeners -These methods will be executed in this <test> tag
+15:30:37.771 INFO  base.TestListeners -logTotheSystem
+15:30:38.244 INFO  base.WebDriverFactory -OS Name from system property :: win
+15:30:38.244 INFO  base.WebDriverFactory -Driver Binary :: C:\selenium\xero/drivers/chromedriver.exe
+15:30:43.885 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+15:30:43.956 INFO  base.CustomDriver -Element appeared on the web page
+15:30:43.966 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+15:30:54.299 ERROR base.CustomDriver -Element not appeared on the web page
+15:30:54.307 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+15:31:04.654 ERROR base.CustomDriver -Element not appeared on the web page
+15:31:04.684 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+15:31:14.945 ERROR base.CustomDriver -Element not appeared on the web page
+15:31:15.054 INFO  base.CustomDriver -Send Keys on element :: Enter Email with data :: jcmullage@gmail.com
+15:31:15.142 INFO  base.CustomDriver -Send Keys on element :: Enter Password with data :: 2wsx1qaz~
+15:31:22.510 INFO  base.CustomDriver -Clicked On :: Press Login Button
+15:31:22.759 INFO  base.CustomDriver -Clicked On :: Press Accounting Button
+15:31:24.431 INFO  base.CustomDriver -Clicked On :: Press Bank Account dropdown option
+15:31:35.682 INFO  base.CustomDriver -Clicked On :: Press Add Bank Account Button
+15:31:35.941 INFO  base.CustomDriver -Send Keys on element :: Add Bank Name Information with data :: ANZ
+15:35:57.846 INFO  utilities.Util -Current Date and Time :: 11_22_2020 15_35_57
+15:35:57.854 INFO  utilities.ExtentManager -*********** Report Path ***********
+15:35:57.854 INFO  utilities.ExtentManager -C:\selenium\xero/reports/AutomationReport_11_22_2020 15_35_57.html
+15:35:57.854 INFO  utilities.ExtentManager -*********** Report Path ***********
+15:35:58.036 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+15:35:58.037 INFO  base.TestListeners -These methods will be executed in this <test> tag
+15:35:58.037 INFO  base.TestListeners -logTotheSystem
+15:35:58.462 INFO  base.WebDriverFactory -OS Name from system property :: win
+15:35:58.462 INFO  base.WebDriverFactory -Driver Binary :: C:\selenium\xero/drivers/chromedriver.exe
+15:36:05.502 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+15:36:05.570 INFO  base.CustomDriver -Element appeared on the web page
+15:36:05.581 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+15:36:15.995 ERROR base.CustomDriver -Element not appeared on the web page
+15:36:16.002 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+15:36:26.346 ERROR base.CustomDriver -Element not appeared on the web page
+15:36:26.358 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+15:36:36.648 ERROR base.CustomDriver -Element not appeared on the web page
+15:36:36.746 INFO  base.CustomDriver -Send Keys on element :: Enter Email with data :: jcmullage@gmail.com
+15:36:36.862 INFO  base.CustomDriver -Send Keys on element :: Enter Password with data :: 2wsx1qaz~
+15:36:42.357 INFO  base.CustomDriver -Clicked On :: Press Login Button
+15:36:42.527 INFO  base.CustomDriver -Clicked On :: Press Accounting Button
+15:36:44.913 INFO  base.CustomDriver -Clicked On :: Press Bank Account dropdown option
+15:36:56.190 INFO  base.CustomDriver -Clicked On :: Press Add Bank Account Button
+15:36:56.462 INFO  base.CustomDriver -Send Keys on element :: Add Bank Name Information with data :: ANZ
+15:37:03.529 INFO  base.TestListeners -onTestFailure -> Test Method Name: logTotheSystem
+15:37:03.533 INFO  base.WebDriverFactory -OS Name from system property :: win
+15:37:03.534 INFO  base.WebDriverFactory -Driver Binary :: C:\selenium\xero/drivers/chromedriver.exe
+15:37:03.534 INFO  utilities.Util -Current Date and Time :: 11_22_2020 15_37_03
+15:37:03.862 INFO  base.CustomDriver -Screen Shot Was Stored at: C:\selenium\xero/reports//screenshots/chrome_logTotheSystem_11_22_2020 15_37_03.png
+15:37:05.123 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test
+15:40:01.510 INFO  utilities.Util -Current Date and Time :: 11_22_2020 15_40_01
+15:40:01.518 INFO  utilities.ExtentManager -*********** Report Path ***********
+15:40:01.518 INFO  utilities.ExtentManager -C:\selenium\xero/reports/AutomationReport_11_22_2020 15_40_01.html
+15:40:01.518 INFO  utilities.ExtentManager -*********** Report Path ***********
+15:40:01.739 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+15:40:01.739 INFO  base.TestListeners -These methods will be executed in this <test> tag
+15:40:01.739 INFO  base.TestListeners -logTotheSystem
+15:40:02.220 INFO  base.WebDriverFactory -OS Name from system property :: win
+15:40:02.220 INFO  base.WebDriverFactory -Driver Binary :: C:\selenium\xero/drivers/chromedriver.exe
+15:40:07.901 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+15:40:07.971 INFO  base.CustomDriver -Element appeared on the web page
+15:40:07.979 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+15:40:18.294 ERROR base.CustomDriver -Element not appeared on the web page
+15:40:18.305 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+15:40:28.574 ERROR base.CustomDriver -Element not appeared on the web page
+15:40:28.581 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+15:40:38.864 ERROR base.CustomDriver -Element not appeared on the web page
+15:40:38.965 INFO  base.CustomDriver -Send Keys on element :: Enter Email with data :: jcmullage@gmail.com
+15:40:39.044 INFO  base.CustomDriver -Send Keys on element :: Enter Password with data :: 2wsx1qaz~
+15:40:45.708 INFO  base.CustomDriver -Clicked On :: Press Login Button
+15:40:46.273 INFO  base.CustomDriver -Clicked On :: Press Accounting Button
+15:40:47.712 INFO  base.CustomDriver -Clicked On :: Press Bank Account dropdown option
+15:40:59.250 INFO  base.CustomDriver -Clicked On :: Press Add Bank Account Button
+15:40:59.485 INFO  base.CustomDriver -Send Keys on element :: Add Bank Name Information with data :: ANZ
+15:41:04.560 ERROR base.CustomDriver -Element not found with: xpath=>//ul[@id='dataview-1085']
+15:41:04.563 ERROR base.CustomDriver -Cannot click on :: Press Continue Button
+15:41:04.563 INFO  utilities.Util -Current Date and Time :: 11_22_2020 15_41_04
+15:41:04.906 INFO  base.CustomDriver -Screen Shot Was Stored at: C:\selenium\xero/reports//screenshots/_Click ERROR_11_22_2020 15_41_04.png
+15:41:14.913 INFO  base.TestListeners -onTestSuccess -> Test Method Name: logTotheSystem
+15:41:16.088 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test
+15:42:03.361 INFO  utilities.Util -Current Date and Time :: 11_22_2020 15_42_03
+15:42:03.372 INFO  utilities.ExtentManager -*********** Report Path ***********
+15:42:03.372 INFO  utilities.ExtentManager -C:\selenium\xero/reports/AutomationReport_11_22_2020 15_42_03.html
+15:42:03.372 INFO  utilities.ExtentManager -*********** Report Path ***********
+15:42:03.559 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+15:42:03.559 INFO  base.TestListeners -These methods will be executed in this <test> tag
+15:42:03.559 INFO  base.TestListeners -logTotheSystem
+15:42:03.986 INFO  base.WebDriverFactory -OS Name from system property :: win
+15:42:03.986 INFO  base.WebDriverFactory -Driver Binary :: C:\selenium\xero/drivers/chromedriver.exe
+15:42:09.796 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+15:42:09.869 INFO  base.CustomDriver -Element appeared on the web page
+15:42:09.880 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+15:42:20.123 ERROR base.CustomDriver -Element not appeared on the web page
+15:42:20.131 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+15:42:30.471 ERROR base.CustomDriver -Element not appeared on the web page
+15:42:30.482 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+15:42:40.744 ERROR base.CustomDriver -Element not appeared on the web page
+15:42:40.849 INFO  base.CustomDriver -Send Keys on element :: Enter Email with data :: jcmullage@gmail.com
+15:42:40.943 INFO  base.CustomDriver -Send Keys on element :: Enter Password with data :: 2wsx1qaz~
+15:42:46.846 INFO  base.CustomDriver -Clicked On :: Press Login Button
+15:42:47.395 INFO  base.CustomDriver -Clicked On :: Press Accounting Button
+15:42:48.895 INFO  base.CustomDriver -Clicked On :: Press Bank Account dropdown option
+15:43:00.327 INFO  base.CustomDriver -Clicked On :: Press Add Bank Account Button
+15:43:00.586 INFO  base.CustomDriver -Send Keys on element :: Add Bank Name Information with data :: ANZ
+15:43:13.607 ERROR base.CustomDriver -Element not found with: xpath=>//ul[@id='dataview-1085']
+15:43:13.608 ERROR base.CustomDriver -Cannot click on :: Press Continue Button
+15:43:13.609 INFO  utilities.Util -Current Date and Time :: 11_22_2020 15_43_13
+15:43:13.927 INFO  base.CustomDriver -Screen Shot Was Stored at: C:\selenium\xero/reports//screenshots/_Click ERROR_11_22_2020 15_43_13.png
+15:43:23.936 INFO  base.TestListeners -onTestSuccess -> Test Method Name: logTotheSystem
+15:43:25.072 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test
+15:57:00.269 INFO  utilities.Util -Current Date and Time :: 11_22_2020 15_57_00
+15:57:00.278 INFO  utilities.ExtentManager -*********** Report Path ***********
+15:57:00.278 INFO  utilities.ExtentManager -C:\selenium\xero/reports/AutomationReport_11_22_2020 15_57_00.html
+15:57:00.278 INFO  utilities.ExtentManager -*********** Report Path ***********
+15:57:00.464 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+15:57:00.464 INFO  base.TestListeners -These methods will be executed in this <test> tag
+15:57:00.464 INFO  base.TestListeners -logTotheSystem
+15:57:00.863 INFO  base.WebDriverFactory -OS Name from system property :: win
+15:57:00.864 INFO  base.WebDriverFactory -Driver Binary :: C:\selenium\xero/drivers/chromedriver.exe
+15:57:06.737 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+15:57:06.821 INFO  base.CustomDriver -Element appeared on the web page
+15:57:06.834 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+15:57:17.237 ERROR base.CustomDriver -Element not appeared on the web page
+15:57:17.247 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+15:57:27.581 ERROR base.CustomDriver -Element not appeared on the web page
+15:57:27.592 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+15:57:37.896 ERROR base.CustomDriver -Element not appeared on the web page
+15:57:37.991 INFO  base.CustomDriver -Send Keys on element :: Enter Email with data :: jcmullage@gmail.com
+15:57:38.077 INFO  base.CustomDriver -Send Keys on element :: Enter Password with data :: 2wsx1qaz~
+15:57:43.321 INFO  base.CustomDriver -Clicked On :: Press Login Button
+15:57:43.556 INFO  base.CustomDriver -Clicked On :: Press Accounting Button
+15:57:45.191 INFO  base.CustomDriver -Clicked On :: Press Bank Account dropdown option
+15:57:56.194 INFO  base.CustomDriver -Clicked On :: Press Add Bank Account Button
+15:58:06.280 INFO  base.CustomDriver -Send Keys on element :: Add Bank Name Information with data :: ANZ
+15:58:16.352 INFO  base.TestListeners -onTestSuccess -> Test Method Name: logTotheSystem
+15:58:17.476 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test
+16:06:59.613 INFO  utilities.Util -Current Date and Time :: 11_22_2020 16_06_59
+16:06:59.620 INFO  utilities.ExtentManager -*********** Report Path ***********
+16:06:59.621 INFO  utilities.ExtentManager -C:\selenium\xero/reports/AutomationReport_11_22_2020 16_06_59.html
+16:06:59.621 INFO  utilities.ExtentManager -*********** Report Path ***********
+16:06:59.836 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+16:06:59.836 INFO  base.TestListeners -These methods will be executed in this <test> tag
+16:06:59.836 INFO  base.TestListeners -logTotheSystem
+16:07:00.300 INFO  base.WebDriverFactory -OS Name from system property :: win
+16:07:00.300 INFO  base.WebDriverFactory -Driver Binary :: C:\selenium\xero/drivers/chromedriver.exe
+16:07:06.005 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+16:07:06.067 INFO  base.CustomDriver -Element appeared on the web page
+16:07:06.075 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+16:07:16.473 ERROR base.CustomDriver -Element not appeared on the web page
+16:07:16.482 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+16:07:26.836 ERROR base.CustomDriver -Element not appeared on the web page
+16:07:26.846 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+16:07:37.133 ERROR base.CustomDriver -Element not appeared on the web page
+16:07:37.231 INFO  base.CustomDriver -Send Keys on element :: Enter Email with data :: jcmullage@gmail.com
+16:07:37.317 INFO  base.CustomDriver -Send Keys on element :: Enter Password with data :: 2wsx1qaz~
+16:07:42.876 INFO  base.CustomDriver -Clicked On :: Press Login Button
+16:07:42.991 INFO  base.CustomDriver -Clicked On :: Press Accounting Button
+16:07:44.883 INFO  base.CustomDriver -Clicked On :: Press Bank Account dropdown option
+16:07:56.271 INFO  base.CustomDriver -Clicked On :: Press Add Bank Account Button
+16:08:11.455 INFO  base.TestListeners -onTestFailure -> Test Method Name: logTotheSystem
+16:08:11.460 INFO  base.WebDriverFactory -OS Name from system property :: win
+16:08:11.460 INFO  base.WebDriverFactory -Driver Binary :: C:\selenium\xero/drivers/chromedriver.exe
+16:08:11.460 INFO  utilities.Util -Current Date and Time :: 11_22_2020 16_08_11
+16:08:11.802 INFO  base.CustomDriver -Screen Shot Was Stored at: C:\selenium\xero/reports//screenshots/chrome_logTotheSystem_11_22_2020 16_08_11.png
+16:08:12.989 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test
+16:08:53.753 INFO  utilities.Util -Current Date and Time :: 11_22_2020 16_08_53
+16:08:53.760 INFO  utilities.ExtentManager -*********** Report Path ***********
+16:08:53.760 INFO  utilities.ExtentManager -C:\selenium\xero/reports/AutomationReport_11_22_2020 16_08_53.html
+16:08:53.760 INFO  utilities.ExtentManager -*********** Report Path ***********
+16:08:53.939 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+16:08:53.939 INFO  base.TestListeners -These methods will be executed in this <test> tag
+16:08:53.939 INFO  base.TestListeners -logTotheSystem
+16:08:54.333 INFO  base.WebDriverFactory -OS Name from system property :: win
+16:08:54.333 INFO  base.WebDriverFactory -Driver Binary :: C:\selenium\xero/drivers/chromedriver.exe
+16:09:00.278 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+16:09:00.352 INFO  base.CustomDriver -Element appeared on the web page
+16:09:00.362 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+16:09:10.832 ERROR base.CustomDriver -Element not appeared on the web page
+16:09:10.842 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+16:09:21.174 ERROR base.CustomDriver -Element not appeared on the web page
+16:09:21.185 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+16:09:31.437 ERROR base.CustomDriver -Element not appeared on the web page
+16:09:31.533 INFO  base.CustomDriver -Send Keys on element :: Enter Email with data :: jcmullage@gmail.com
+16:09:31.615 INFO  base.CustomDriver -Send Keys on element :: Enter Password with data :: 2wsx1qaz~
+16:09:36.849 INFO  base.CustomDriver -Clicked On :: Press Login Button
+16:09:36.955 INFO  base.CustomDriver -Clicked On :: Press Accounting Button
+16:09:38.705 INFO  base.CustomDriver -Clicked On :: Press Bank Account dropdown option
+16:09:50.124 INFO  base.CustomDriver -Clicked On :: Press Add Bank Account Button
+16:09:50.398 INFO  base.CustomDriver -Send Keys on element :: Add Bank Name Information with data :: ANZ
+16:10:05.552 INFO  base.TestListeners -onTestFailure -> Test Method Name: logTotheSystem
+16:10:05.556 INFO  base.WebDriverFactory -OS Name from system property :: win
+16:10:05.556 INFO  base.WebDriverFactory -Driver Binary :: C:\selenium\xero/drivers/chromedriver.exe
+16:10:05.557 INFO  utilities.Util -Current Date and Time :: 11_22_2020 16_10_05
+16:10:05.913 INFO  base.CustomDriver -Screen Shot Was Stored at: C:\selenium\xero/reports//screenshots/chrome_logTotheSystem_11_22_2020 16_10_05.png
+16:10:07.209 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test
+17:07:26.039 INFO  utilities.Util -Current Date and Time :: 11_22_2020 17_07_26
+17:07:26.048 INFO  utilities.ExtentManager -*********** Report Path ***********
+17:07:26.048 INFO  utilities.ExtentManager -C:\selenium\xero/reports/AutomationReport_11_22_2020 17_07_26.html
+17:07:26.048 INFO  utilities.ExtentManager -*********** Report Path ***********
+17:07:26.287 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+17:07:26.287 INFO  base.TestListeners -These methods will be executed in this <test> tag
+17:07:26.287 INFO  base.TestListeners -logTotheSystem
+17:07:26.761 INFO  base.WebDriverFactory -OS Name from system property :: win
+17:07:26.761 INFO  base.WebDriverFactory -Driver Binary :: C:\selenium\xero/drivers/chromedriver.exe
+17:07:33.424 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+17:07:33.488 INFO  base.CustomDriver -Element appeared on the web page
+17:07:33.497 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+17:07:43.676 ERROR base.CustomDriver -Element not appeared on the web page
+17:07:43.691 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+17:07:53.935 ERROR base.CustomDriver -Element not appeared on the web page
+17:07:53.942 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+17:08:04.164 ERROR base.CustomDriver -Element not appeared on the web page
+17:08:04.259 INFO  base.CustomDriver -Send Keys on element :: Enter Email with data :: jcmullage@gmail.com
+17:08:04.342 INFO  base.CustomDriver -Send Keys on element :: Enter Password with data :: 2wsx1qaz~
+17:08:10.468 INFO  base.CustomDriver -Clicked On :: Press Login Button
+17:08:10.617 INFO  base.CustomDriver -Clicked On :: Press Accounting Button
+17:08:12.366 INFO  base.CustomDriver -Clicked On :: Press Bank Account dropdown option
+17:08:23.295 INFO  base.CustomDriver -Clicked On :: Press Add Bank Account Button
+17:08:23.780 INFO  base.CustomDriver -Send Keys on element :: Add Bank Name Information with data :: ANZ
+17:08:38.885 INFO  base.TestListeners -onTestFailure -> Test Method Name: logTotheSystem
+17:08:38.891 INFO  base.WebDriverFactory -OS Name from system property :: win
+17:08:38.891 INFO  base.WebDriverFactory -Driver Binary :: C:\selenium\xero/drivers/chromedriver.exe
+17:08:38.892 INFO  utilities.Util -Current Date and Time :: 11_22_2020 17_08_38
+17:08:39.232 INFO  base.CustomDriver -Screen Shot Was Stored at: C:\selenium\xero/reports//screenshots/chrome_logTotheSystem_11_22_2020 17_08_38.png
+17:08:40.392 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test
+17:09:21.024 INFO  utilities.Util -Current Date and Time :: 11_22_2020 17_09_21
+17:09:21.030 INFO  utilities.ExtentManager -*********** Report Path ***********
+17:09:21.031 INFO  utilities.ExtentManager -C:\selenium\xero/reports/AutomationReport_11_22_2020 17_09_21.html
+17:09:21.031 INFO  utilities.ExtentManager -*********** Report Path ***********
+17:09:21.211 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+17:09:21.211 INFO  base.TestListeners -These methods will be executed in this <test> tag
+17:09:21.211 INFO  base.TestListeners -logTotheSystem
+17:09:21.652 INFO  base.WebDriverFactory -OS Name from system property :: win
+17:09:21.652 INFO  base.WebDriverFactory -Driver Binary :: C:\selenium\xero/drivers/chromedriver.exe
+17:09:27.743 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+17:09:27.803 INFO  base.CustomDriver -Element appeared on the web page
+17:09:27.815 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+17:09:38.278 ERROR base.CustomDriver -Element not appeared on the web page
+17:09:38.285 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+17:09:48.521 ERROR base.CustomDriver -Element not appeared on the web page
+17:09:48.531 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+17:09:58.762 ERROR base.CustomDriver -Element not appeared on the web page
+17:09:58.918 INFO  base.CustomDriver -Send Keys on element :: Enter Email with data :: jcmullage@gmail.com
+17:09:59.057 INFO  base.CustomDriver -Send Keys on element :: Enter Password with data :: 2wsx1qaz~
+17:10:05.607 INFO  base.CustomDriver -Clicked On :: Press Login Button
+17:10:05.825 INFO  base.CustomDriver -Clicked On :: Press Accounting Button
+17:10:07.695 INFO  base.CustomDriver -Clicked On :: Press Bank Account dropdown option
+17:10:19.043 INFO  base.CustomDriver -Clicked On :: Press Add Bank Account Button
+17:10:19.295 INFO  base.CustomDriver -Send Keys on element :: Add Bank Name Information with data :: ANZ
+17:10:34.405 INFO  base.TestListeners -onTestFailure -> Test Method Name: logTotheSystem
+17:10:34.410 INFO  base.WebDriverFactory -OS Name from system property :: win
+17:10:34.410 INFO  base.WebDriverFactory -Driver Binary :: C:\selenium\xero/drivers/chromedriver.exe
+17:10:34.410 INFO  utilities.Util -Current Date and Time :: 11_22_2020 17_10_34
+17:10:34.785 INFO  base.CustomDriver -Screen Shot Was Stored at: C:\selenium\xero/reports//screenshots/chrome_logTotheSystem_11_22_2020 17_10_34.png
+17:10:35.999 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test
+17:13:27.741 INFO  utilities.Util -Current Date and Time :: 11_22_2020 17_13_27
+17:13:27.750 INFO  utilities.ExtentManager -*********** Report Path ***********
+17:13:27.750 INFO  utilities.ExtentManager -C:\selenium\xero/reports/AutomationReport_11_22_2020 17_13_27.html
+17:13:27.750 INFO  utilities.ExtentManager -*********** Report Path ***********
+17:13:27.961 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+17:13:27.962 INFO  base.TestListeners -These methods will be executed in this <test> tag
+17:13:27.962 INFO  base.TestListeners -logTotheSystem
+17:13:28.409 INFO  base.WebDriverFactory -OS Name from system property :: win
+17:13:28.409 INFO  base.WebDriverFactory -Driver Binary :: C:\selenium\xero/drivers/chromedriver.exe
+17:13:34.251 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+17:13:34.316 INFO  base.CustomDriver -Element appeared on the web page
+17:13:34.329 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+17:13:44.506 ERROR base.CustomDriver -Element not appeared on the web page
+17:13:44.514 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+17:13:54.746 ERROR base.CustomDriver -Element not appeared on the web page
+17:13:54.756 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+17:14:04.978 ERROR base.CustomDriver -Element not appeared on the web page
+17:14:05.080 INFO  base.CustomDriver -Send Keys on element :: Enter Email with data :: jcmullage@gmail.com
+17:14:05.162 INFO  base.CustomDriver -Send Keys on element :: Enter Password with data :: 2wsx1qaz~
+17:14:11.478 INFO  base.CustomDriver -Clicked On :: Press Login Button
+17:14:11.592 INFO  base.CustomDriver -Clicked On :: Press Accounting Button
+17:14:13.577 INFO  base.CustomDriver -Clicked On :: Press Bank Account dropdown option
+17:14:24.789 INFO  base.CustomDriver -Clicked On :: Press Add Bank Account Button
+17:14:25.073 INFO  base.CustomDriver -Send Keys on element :: Add Bank Name Information with data :: ANZ
+17:14:43.171 INFO  base.TestListeners -onTestFailure -> Test Method Name: logTotheSystem
+17:14:43.177 INFO  base.WebDriverFactory -OS Name from system property :: win
+17:14:43.177 INFO  base.WebDriverFactory -Driver Binary :: C:\selenium\xero/drivers/chromedriver.exe
+17:14:43.178 INFO  utilities.Util -Current Date and Time :: 11_22_2020 17_14_43
+17:14:43.506 INFO  base.CustomDriver -Screen Shot Was Stored at: C:\selenium\xero/reports//screenshots/chrome_logTotheSystem_11_22_2020 17_14_43.png
+17:14:44.672 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test
+17:24:53.278 INFO  utilities.Util -Current Date and Time :: 11_22_2020 17_24_53
+17:24:53.285 INFO  utilities.ExtentManager -*********** Report Path ***********
+17:24:53.285 INFO  utilities.ExtentManager -C:\selenium\xero/reports/AutomationReport_11_22_2020 17_24_53.html
+17:24:53.285 INFO  utilities.ExtentManager -*********** Report Path ***********
+17:24:53.489 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+17:24:53.489 INFO  base.TestListeners -These methods will be executed in this <test> tag
+17:24:53.489 INFO  base.TestListeners -logTotheSystem
+17:24:53.920 INFO  base.WebDriverFactory -OS Name from system property :: win
+17:24:53.921 INFO  base.WebDriverFactory -Driver Binary :: C:\selenium\xero/drivers/chromedriver.exe
+17:25:00.625 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+17:25:00.707 INFO  base.CustomDriver -Element appeared on the web page
+17:25:00.718 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+17:25:11.163 ERROR base.CustomDriver -Element not appeared on the web page
+17:25:11.171 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+17:25:21.408 ERROR base.CustomDriver -Element not appeared on the web page
+17:25:21.415 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+17:25:31.645 ERROR base.CustomDriver -Element not appeared on the web page
+17:25:31.741 INFO  base.CustomDriver -Send Keys on element :: Enter Email with data :: jcmullage@gmail.com
+17:25:31.834 INFO  base.CustomDriver -Send Keys on element :: Enter Password with data :: 2wsx1qaz~
+17:25:38.601 INFO  base.CustomDriver -Clicked On :: Press Login Button
+17:25:38.882 INFO  base.CustomDriver -Clicked On :: Press Accounting Button
+17:25:40.709 INFO  base.CustomDriver -Clicked On :: Press Bank Account dropdown option
+17:25:51.938 INFO  base.CustomDriver -Clicked On :: Press Add Bank Account Button
+17:25:52.228 INFO  base.CustomDriver -Clicked On :: Navigate to ANZ bank information page
+17:26:05.287 ERROR base.CustomDriver -Element not found with: id=>accountname-1097-inputEl
+17:26:05.289 ERROR base.CustomDriver -Cannot send keys on element :: Enter Account Name with data :: 1234567890123456
+17:26:08.348 ERROR base.CustomDriver -Element not found with: id=>accounttype-1099-inputEl
+17:26:08.350 ERROR base.CustomDriver -Cannot click on :: Click
+17:26:08.350 INFO  utilities.Util -Current Date and Time :: 11_22_2020 17_26_08
+17:26:08.700 INFO  base.CustomDriver -Screen Shot Was Stored at: C:\selenium\xero/reports//screenshots/_Click ERROR_11_22_2020 17_26_08.png
+17:26:11.753 ERROR base.CustomDriver -Element not found with: id=>accounttype-1099-inputEl
+17:26:11.764 INFO  base.TestListeners -onTestFailure -> Test Method Name: logTotheSystem
+17:26:11.770 INFO  base.WebDriverFactory -OS Name from system property :: win
+17:26:11.771 INFO  base.WebDriverFactory -Driver Binary :: C:\selenium\xero/drivers/chromedriver.exe
+17:26:11.771 INFO  utilities.Util -Current Date and Time :: 11_22_2020 17_26_11
+17:26:12.105 INFO  base.CustomDriver -Screen Shot Was Stored at: C:\selenium\xero/reports//screenshots/chrome_logTotheSystem_11_22_2020 17_26_11.png
+17:26:13.262 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test
+17:37:58.582 INFO  utilities.Util -Current Date and Time :: 11_22_2020 17_37_58
+17:37:58.590 INFO  utilities.ExtentManager -*********** Report Path ***********
+17:37:58.590 INFO  utilities.ExtentManager -C:\selenium\xero/reports/AutomationReport_11_22_2020 17_37_58.html
+17:37:58.590 INFO  utilities.ExtentManager -*********** Report Path ***********
+17:37:58.797 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+17:37:58.797 INFO  base.TestListeners -These methods will be executed in this <test> tag
+17:37:58.797 INFO  base.TestListeners -logTotheSystem
+17:37:59.267 INFO  base.WebDriverFactory -OS Name from system property :: win
+17:37:59.267 INFO  base.WebDriverFactory -Driver Binary :: C:\selenium\xero/drivers/chromedriver.exe
+17:38:06.065 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+17:38:06.180 INFO  base.CustomDriver -Element appeared on the web page
+17:38:06.195 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+17:38:16.356 ERROR base.CustomDriver -Element not appeared on the web page
+17:38:16.365 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+17:38:26.655 ERROR base.CustomDriver -Element not appeared on the web page
+17:38:26.661 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+17:38:36.909 ERROR base.CustomDriver -Element not appeared on the web page
+17:38:37.008 INFO  base.CustomDriver -Send Keys on element :: Enter Email with data :: jcmullage@gmail.com
+17:38:37.101 INFO  base.CustomDriver -Send Keys on element :: Enter Password with data :: 2wsx1qaz~
+17:38:42.970 INFO  base.CustomDriver -Clicked On :: Press Login Button
+17:38:43.241 INFO  base.CustomDriver -Clicked On :: Press Accounting Button
+17:38:45.029 INFO  base.CustomDriver -Clicked On :: Press Bank Account dropdown option
+17:38:56.652 INFO  base.CustomDriver -Clicked On :: Press Add Bank Account Button
+17:38:57.346 INFO  base.CustomDriver -Clicked On :: Navigate to ANZ bank information page
+17:39:07.466 INFO  base.CustomDriver -Send Keys on element :: Enter Account Name with data :: 1234567890123456
+17:39:07.553 INFO  base.CustomDriver -Clicked On :: Click
+17:39:07.578 INFO  base.TestListeners -onTestFailure -> Test Method Name: logTotheSystem
+17:39:07.583 INFO  base.WebDriverFactory -OS Name from system property :: win
+17:39:07.584 INFO  base.WebDriverFactory -Driver Binary :: C:\selenium\xero/drivers/chromedriver.exe
+17:39:07.584 INFO  utilities.Util -Current Date and Time :: 11_22_2020 17_39_07
+17:39:07.941 INFO  base.CustomDriver -Screen Shot Was Stored at: C:\selenium\xero/reports//screenshots/chrome_logTotheSystem_11_22_2020 17_39_07.png
+17:39:09.130 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test
+17:41:02.933 INFO  utilities.Util -Current Date and Time :: 11_22_2020 17_41_02
+17:41:02.939 INFO  utilities.ExtentManager -*********** Report Path ***********
+17:41:02.939 INFO  utilities.ExtentManager -C:\selenium\xero/reports/AutomationReport_11_22_2020 17_41_02.html
+17:41:02.939 INFO  utilities.ExtentManager -*********** Report Path ***********
+17:41:03.129 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+17:41:03.129 INFO  base.TestListeners -These methods will be executed in this <test> tag
+17:41:03.129 INFO  base.TestListeners -logTotheSystem
+17:41:03.554 INFO  base.WebDriverFactory -OS Name from system property :: win
+17:41:03.554 INFO  base.WebDriverFactory -Driver Binary :: C:\selenium\xero/drivers/chromedriver.exe
+17:41:09.652 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+17:41:09.731 INFO  base.CustomDriver -Element appeared on the web page
+17:41:09.740 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+17:41:20.136 ERROR base.CustomDriver -Element not appeared on the web page
+17:41:20.143 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+17:41:30.379 ERROR base.CustomDriver -Element not appeared on the web page
+17:41:30.386 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+17:41:40.619 ERROR base.CustomDriver -Element not appeared on the web page
+17:41:40.713 INFO  base.CustomDriver -Send Keys on element :: Enter Email with data :: jcmullage@gmail.com
+17:41:40.795 INFO  base.CustomDriver -Send Keys on element :: Enter Password with data :: 2wsx1qaz~
+17:41:46.416 INFO  base.CustomDriver -Clicked On :: Press Login Button
+17:41:46.660 INFO  base.CustomDriver -Clicked On :: Press Accounting Button
+17:41:48.254 INFO  base.CustomDriver -Clicked On :: Press Bank Account dropdown option
+17:42:01.445 INFO  base.CustomDriver -Clicked On :: Press Add Bank Account Button
+17:42:02.044 INFO  base.CustomDriver -Clicked On :: Navigate to ANZ bank information page
+17:42:12.208 INFO  base.CustomDriver -Send Keys on element :: Enter Account Name with data :: 1234567890123456
+17:42:22.308 INFO  base.CustomDriver -Clicked On :: Click
+17:42:22.334 INFO  base.TestListeners -onTestFailure -> Test Method Name: logTotheSystem
+17:42:22.342 INFO  base.WebDriverFactory -OS Name from system property :: win
+17:42:22.342 INFO  base.WebDriverFactory -Driver Binary :: C:\selenium\xero/drivers/chromedriver.exe
+17:42:22.343 INFO  utilities.Util -Current Date and Time :: 11_22_2020 17_42_22
+17:42:22.724 INFO  base.CustomDriver -Screen Shot Was Stored at: C:\selenium\xero/reports//screenshots/chrome_logTotheSystem_11_22_2020 17_42_22.png
+17:42:24.018 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test
+17:44:46.538 INFO  utilities.Util -Current Date and Time :: 11_22_2020 17_44_46
+17:44:46.545 INFO  utilities.ExtentManager -*********** Report Path ***********
+17:44:46.545 INFO  utilities.ExtentManager -C:\selenium\xero/reports/AutomationReport_11_22_2020 17_44_46.html
+17:44:46.545 INFO  utilities.ExtentManager -*********** Report Path ***********
+17:44:46.731 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+17:44:46.732 INFO  base.TestListeners -These methods will be executed in this <test> tag
+17:44:46.732 INFO  base.TestListeners -logTotheSystem
+17:44:47.148 INFO  base.WebDriverFactory -OS Name from system property :: win
+17:44:47.148 INFO  base.WebDriverFactory -Driver Binary :: C:\selenium\xero/drivers/chromedriver.exe
+17:44:53.077 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+17:44:53.147 INFO  base.CustomDriver -Element appeared on the web page
+17:44:53.161 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+17:45:03.376 ERROR base.CustomDriver -Element not appeared on the web page
+17:45:03.384 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+17:45:13.620 ERROR base.CustomDriver -Element not appeared on the web page
+17:45:13.628 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+17:45:23.849 ERROR base.CustomDriver -Element not appeared on the web page
+17:45:23.945 INFO  base.CustomDriver -Send Keys on element :: Enter Email with data :: jcmullage@gmail.com
+17:45:24.037 INFO  base.CustomDriver -Send Keys on element :: Enter Password with data :: 2wsx1qaz~
+17:45:30.866 INFO  base.CustomDriver -Clicked On :: Press Login Button
+17:45:31.092 INFO  base.CustomDriver -Clicked On :: Press Accounting Button
+17:45:32.870 INFO  base.CustomDriver -Clicked On :: Press Bank Account dropdown option
+17:45:44.109 INFO  base.CustomDriver -Clicked On :: Press Add Bank Account Button
+17:45:44.590 INFO  base.CustomDriver -Clicked On :: Navigate to ANZ bank information page
+17:45:54.722 INFO  base.CustomDriver -Send Keys on element :: Enter Account Name with data :: 1234567890123456
+17:46:04.800 INFO  base.CustomDriver -Clicked On :: Click
+17:46:14.823 INFO  base.TestListeners -onTestFailure -> Test Method Name: logTotheSystem
+17:46:14.828 INFO  base.WebDriverFactory -OS Name from system property :: win
+17:46:14.829 INFO  base.WebDriverFactory -Driver Binary :: C:\selenium\xero/drivers/chromedriver.exe
+17:46:14.829 INFO  utilities.Util -Current Date and Time :: 11_22_2020 17_46_14
+17:46:15.177 INFO  base.CustomDriver -Screen Shot Was Stored at: C:\selenium\xero/reports//screenshots/chrome_logTotheSystem_11_22_2020 17_46_14.png
+17:46:16.365 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test
+17:51:06.646 INFO  utilities.Util -Current Date and Time :: 11_22_2020 17_51_06
+17:51:06.653 INFO  utilities.ExtentManager -*********** Report Path ***********
+17:51:06.653 INFO  utilities.ExtentManager -C:\selenium\xero/reports/AutomationReport_11_22_2020 17_51_06.html
+17:51:06.653 INFO  utilities.ExtentManager -*********** Report Path ***********
+17:51:06.849 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+17:51:06.849 INFO  base.TestListeners -These methods will be executed in this <test> tag
+17:51:06.849 INFO  base.TestListeners -logTotheSystem
+17:51:07.257 INFO  base.WebDriverFactory -OS Name from system property :: win
+17:51:07.258 INFO  base.WebDriverFactory -Driver Binary :: C:\selenium\xero/drivers/chromedriver.exe
+17:51:13.932 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+17:51:13.977 INFO  base.CustomDriver -Element appeared on the web page
+17:51:13.987 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+17:51:24.309 ERROR base.CustomDriver -Element not appeared on the web page
+17:51:24.316 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+17:51:34.551 ERROR base.CustomDriver -Element not appeared on the web page
+17:51:34.559 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+17:51:44.786 ERROR base.CustomDriver -Element not appeared on the web page
+17:51:44.884 INFO  base.CustomDriver -Send Keys on element :: Enter Email with data :: jcmullage@gmail.com
+17:51:44.972 INFO  base.CustomDriver -Send Keys on element :: Enter Password with data :: 2wsx1qaz~
+17:51:50.426 INFO  base.CustomDriver -Clicked On :: Press Login Button
+17:51:50.564 INFO  base.CustomDriver -Clicked On :: Press Accounting Button
+17:51:52.324 INFO  base.CustomDriver -Clicked On :: Press Bank Account dropdown option
+17:52:03.254 INFO  base.CustomDriver -Clicked On :: Press Add Bank Account Button
+17:52:03.853 INFO  base.CustomDriver -Clicked On :: Navigate to ANZ bank information page
+17:52:13.974 INFO  base.CustomDriver -Send Keys on element :: Enter Account Name with data :: 1234567890123456
+17:52:24.076 INFO  base.CustomDriver -Clicked On :: Click
+17:52:49.203 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+17:52:49.236 INFO  base.CustomDriver -Element appeared on the web page
+17:52:49.326 INFO  base.CustomDriver -Send Keys on element :: Enter Account Number with data :: 1234567890123456
+17:52:49.416 INFO  base.CustomDriver -Clicked On :: Press Continue Button
+17:52:49.420 INFO  base.TestListeners -onTestSuccess -> Test Method Name: logTotheSystem
+17:52:50.596 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test
+18:01:47.082 INFO  utilities.Util -Current Date and Time :: 11_22_2020 18_01_47
+18:01:47.090 INFO  utilities.ExtentManager -*********** Report Path ***********
+18:01:47.090 INFO  utilities.ExtentManager -C:\selenium\xero/reports/AutomationReport_11_22_2020 18_01_47.html
+18:01:47.090 INFO  utilities.ExtentManager -*********** Report Path ***********
+18:01:47.287 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+18:01:47.287 INFO  base.TestListeners -These methods will be executed in this <test> tag
+18:01:47.287 INFO  base.TestListeners -logTotheSystem
+18:01:47.684 INFO  base.WebDriverFactory -OS Name from system property :: win
+18:01:47.685 INFO  base.WebDriverFactory -Driver Binary :: C:\selenium\xero/drivers/chromedriver.exe
+18:01:53.525 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+18:01:53.587 INFO  base.CustomDriver -Element appeared on the web page
+18:01:53.600 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+18:02:03.615 ERROR base.CustomDriver -Element not appeared on the web page
+18:02:03.622 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+18:02:13.859 ERROR base.CustomDriver -Element not appeared on the web page
+18:02:13.866 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+18:02:24.083 ERROR base.CustomDriver -Element not appeared on the web page
+18:02:24.179 INFO  base.CustomDriver -Send Keys on element :: Enter Email with data :: jcmullage@gmail.com
+18:02:24.263 INFO  base.CustomDriver -Send Keys on element :: Enter Password with data :: 2wsx1qaz~
+18:02:30.531 INFO  base.CustomDriver -Clicked On :: Press Login Button
+18:02:30.807 INFO  base.CustomDriver -Clicked On :: Press Accounting Button
+18:02:32.392 INFO  base.CustomDriver -Clicked On :: Press Bank Account dropdown option
+18:02:43.471 INFO  base.CustomDriver -Clicked On :: Press Add Bank Account Button
+18:02:44.003 INFO  base.CustomDriver -Clicked On :: Navigate to ANZ bank information page
+18:02:54.123 INFO  base.CustomDriver -Send Keys on element :: Enter Account Name with data :: 1234567890123456
+18:03:04.205 INFO  base.CustomDriver -Clicked On :: Click
+18:03:29.353 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+18:03:29.388 INFO  base.CustomDriver -Element appeared on the web page
+18:03:29.473 INFO  base.CustomDriver -Send Keys on element :: Enter Account Number with data :: 1234567890123456
+18:03:39.571 INFO  base.CustomDriver -Clicked On :: Press Continue Button
+18:03:41.261 INFO  base.CustomDriver -Element :: Add Bank Account Nofification is displayed
+18:03:41.264 INFO  base.TestListeners -onTestSuccess -> Test Method Name: logTotheSystem
+18:03:42.396 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test
+18:08:36.664 INFO  utilities.Util -Current Date and Time :: 11_22_2020 18_08_36
+18:08:36.670 INFO  utilities.ExtentManager -*********** Report Path ***********
+18:08:36.671 INFO  utilities.ExtentManager -C:\selenium\xero/reports/AutomationReport_11_22_2020 18_08_36.html
+18:08:36.671 INFO  utilities.ExtentManager -*********** Report Path ***********
+18:08:36.851 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+18:08:36.851 INFO  base.TestListeners -These methods will be executed in this <test> tag
+18:08:36.851 INFO  base.TestListeners -logTotheSystem
+18:08:37.259 INFO  base.WebDriverFactory -OS Name from system property :: win
+18:08:37.259 INFO  base.WebDriverFactory -Driver Binary :: C:\selenium\xero/drivers/chromedriver.exe
+18:08:42.962 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+18:08:43.024 INFO  base.CustomDriver -Element appeared on the web page
+18:08:43.033 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+18:08:53.079 ERROR base.CustomDriver -Element not appeared on the web page
+18:08:53.087 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+18:09:03.322 ERROR base.CustomDriver -Element not appeared on the web page
+18:09:03.329 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+18:09:13.542 ERROR base.CustomDriver -Element not appeared on the web page
+18:09:13.637 INFO  base.CustomDriver -Send Keys on element :: Enter Email with data :: jcmullage@gmail.com
+18:09:13.724 INFO  base.CustomDriver -Send Keys on element :: Enter Password with data :: 2wsx1qaz~
+18:09:19.500 INFO  base.CustomDriver -Clicked On :: Press Login Button
+18:09:19.669 INFO  base.CustomDriver -Clicked On :: Press Accounting Button
+18:09:21.493 INFO  base.CustomDriver -Clicked On :: Press Bank Account dropdown option
+18:09:33.097 INFO  base.CustomDriver -Clicked On :: Press Add Bank Account Button
+18:09:33.510 INFO  base.CustomDriver -Clicked On :: Navigate to ANZ bank information page
+18:09:43.649 INFO  base.CustomDriver -Send Keys on element :: Enter Account Name with data :: 1234567890123456
+18:09:48.729 INFO  base.CustomDriver -Clicked On :: Click
+18:10:08.865 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+18:10:08.900 INFO  base.CustomDriver -Element appeared on the web page
+18:10:08.994 INFO  base.CustomDriver -Send Keys on element :: Enter Account Number with data :: 1234567890123456
+18:10:08.996 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+18:10:09.022 INFO  base.CustomDriver -Element appeared on the web page
+18:10:09.110 INFO  base.CustomDriver -Clicked On :: Press Continue Button
+18:10:09.113 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+18:10:19.352 ERROR base.CustomDriver -Element not appeared on the web page
+18:10:22.385 ERROR base.CustomDriver -Element not found with: xpath=>//*[@id="notify01"]
+18:10:27.391 INFO  base.TestListeners -onTestSuccess -> Test Method Name: logTotheSystem
+18:10:28.710 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test
+18:18:47.537 INFO  utilities.Util -Current Date and Time :: 11_22_2020 18_18_47
+18:18:47.547 INFO  utilities.ExtentManager -*********** Report Path ***********
+18:18:47.547 INFO  utilities.ExtentManager -C:\selenium\xero/reports/AutomationReport_11_22_2020 18_18_47.html
+18:18:47.547 INFO  utilities.ExtentManager -*********** Report Path ***********
+18:18:47.745 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+18:18:47.745 INFO  base.TestListeners -These methods will be executed in this <test> tag
+18:18:47.745 INFO  base.TestListeners -logTotheSystem
+18:18:48.203 INFO  base.WebDriverFactory -OS Name from system property :: win
+18:18:48.203 INFO  base.WebDriverFactory -Driver Binary :: C:\selenium\xero/drivers/chromedriver.exe
+18:18:54.563 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+18:18:54.636 INFO  base.CustomDriver -Element appeared on the web page
+18:18:54.645 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+18:19:05.106 ERROR base.CustomDriver -Element not appeared on the web page
+18:19:05.122 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+18:19:15.397 ERROR base.CustomDriver -Element not appeared on the web page
+18:19:15.406 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+18:19:25.661 ERROR base.CustomDriver -Element not appeared on the web page
+18:19:25.760 INFO  base.CustomDriver -Send Keys on element :: Enter Email with data :: jcmullage@gmail.com
+18:19:25.846 INFO  base.CustomDriver -Send Keys on element :: Enter Password with data :: 2wsx1qaz~
+18:19:31.238 INFO  base.CustomDriver -Clicked On :: Press Login Button
+18:19:31.538 INFO  base.CustomDriver -Clicked On :: Press Accounting Button
+18:19:33.328 INFO  base.CustomDriver -Clicked On :: Press Bank Account dropdown option
+18:19:44.263 INFO  base.CustomDriver -Clicked On :: Press Add Bank Account Button
+18:19:45.065 INFO  base.CustomDriver -Clicked On :: Navigate to ANZ bank information page
+18:19:55.186 INFO  base.CustomDriver -Send Keys on element :: Enter Account Name with data :: 1234567890123456
+18:20:00.316 INFO  base.CustomDriver -Clicked On :: Click
+18:20:20.449 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+18:20:20.484 INFO  base.CustomDriver -Element appeared on the web page
+18:20:20.578 INFO  base.CustomDriver -Send Keys on element :: Enter Account Number with data :: 1234567890123456
+18:20:20.581 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+18:20:20.608 INFO  base.CustomDriver -Element appeared on the web page
+18:20:20.701 INFO  base.CustomDriver -Clicked On :: Press Continue Button
+18:20:20.703 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+18:20:30.960 ERROR base.CustomDriver -Element not appeared on the web page
+18:20:33.043 INFO  base.CustomDriver -Element :: Add Bank Account Nofification is displayed
+18:20:38.051 INFO  base.TestListeners -onTestSuccess -> Test Method Name: logTotheSystem
+18:20:39.198 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test
+18:34:50.099 INFO  utilities.Util -Current Date and Time :: 11_22_2020 18_34_50
+18:34:50.105 INFO  utilities.ExtentManager -*********** Report Path ***********
+18:34:50.105 INFO  utilities.ExtentManager -C:\selenium\xero/reports/AutomationReport_11_22_2020 18_34_50.html
+18:34:50.105 INFO  utilities.ExtentManager -*********** Report Path ***********
+18:34:50.299 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+18:34:50.299 INFO  base.TestListeners -These methods will be executed in this <test> tag
+18:34:50.299 INFO  base.TestListeners -logTotheSystem
+18:34:50.750 INFO  base.WebDriverFactory -OS Name from system property :: win
+18:34:50.750 INFO  base.WebDriverFactory -Driver Binary :: C:\selenium\xero/drivers/chromedriver.exe
+18:34:56.639 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+18:34:56.709 INFO  base.CustomDriver -Element appeared on the web page
+18:34:56.721 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+18:35:06.897 ERROR base.CustomDriver -Element not appeared on the web page
+18:35:06.905 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+18:35:17.235 ERROR base.CustomDriver -Element not appeared on the web page
+18:35:17.242 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+18:35:27.528 ERROR base.CustomDriver -Element not appeared on the web page
+18:35:27.620 INFO  base.CustomDriver -Send Keys on element :: Enter Email with data :: jcmullage@gmail.com
+18:35:27.699 INFO  base.CustomDriver -Send Keys on element :: Enter Password with data :: 2wsx1qaz~
+18:35:33.278 INFO  base.CustomDriver -Clicked On :: Press Login Button
+18:35:33.387 INFO  base.CustomDriver -Clicked On :: Press Accounting Button
+18:35:35.551 INFO  base.CustomDriver -Clicked On :: Press Bank Account dropdown option
+18:35:46.959 INFO  base.CustomDriver -Clicked On :: Press Add Bank Account Button
+18:35:47.373 INFO  base.CustomDriver -Clicked On :: Navigate to ANZ bank information page
+18:35:57.499 INFO  base.CustomDriver -Send Keys on element :: Enter Account Name with data :: 236974
+18:36:02.574 INFO  base.CustomDriver -Clicked On :: Click
+18:36:22.720 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+18:36:22.754 INFO  base.CustomDriver -Element appeared on the web page
+18:36:22.848 INFO  base.CustomDriver -Send Keys on element :: Enter Account Number with data :: 1234567890123456
+18:36:22.851 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+18:36:22.877 INFO  base.CustomDriver -Element appeared on the web page
+18:36:22.972 INFO  base.CustomDriver -Clicked On :: Press Continue Button
+18:36:22.974 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+18:36:24.824 INFO  base.CustomDriver -Element appeared on the web page
+18:36:24.894 INFO  base.CustomDriver -Element :: Add Bank Account Nofification is displayed
+18:36:29.898 INFO  base.TestListeners -onTestSuccess -> Test Method Name: logTotheSystem
+18:36:31.141 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test
+19:01:22.727 INFO  utilities.Util -Current Date and Time :: 11_22_2020 19_01_22
+19:01:22.734 INFO  utilities.ExtentManager -*********** Report Path ***********
+19:01:22.734 INFO  utilities.ExtentManager -C:\selenium\xero/reports/AutomationReport_11_22_2020 19_01_22.html
+19:01:22.734 INFO  utilities.ExtentManager -*********** Report Path ***********
+19:01:22.925 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+19:01:22.925 INFO  base.TestListeners -These methods will be executed in this <test> tag
+19:01:22.925 INFO  base.TestListeners -logTotheSystem
+19:01:22.925 INFO  base.TestListeners -logTotheSystem
+19:01:23.319 INFO  base.WebDriverFactory -OS Name from system property :: win
+19:01:23.319 INFO  base.WebDriverFactory -Driver Binary :: C:\selenium\xero/drivers/chromedriver.exe
+19:01:29.283 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+19:01:29.468 INFO  base.CustomDriver -Element appeared on the web page
+19:01:29.615 INFO  base.CustomDriver -Send Keys on element :: Enter Email with data :: jcmullage@gmail.com

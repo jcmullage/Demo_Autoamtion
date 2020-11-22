@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression Test Suite" parallel="classes">
+	<listeners>
+		<listener class-name="payroll.base.TestListeners" />
+	</listeners>
+	<test name="Application Test" preserve-order="true">
+		<parameter name="browser" value="chrome" />
+		<parameter name="excel" value="Login" />
+		<classes>
+			<class name="payroll.testclasess.AddBankAccountTest"></class>
+		</classes>
+	</test>
+
+
+</suite>

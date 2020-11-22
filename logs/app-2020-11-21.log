@@ -1,0 +1,83 @@
+20:47:29.854 INFO  utilities.Util -Current Date and Time :: 11_21_2020 20_47_29
+20:47:29.883 INFO  utilities.ExtentManager -*********** Report Path ***********
+20:47:29.884 INFO  utilities.ExtentManager -/Users/samithganepola/xero/reports/AutomationReport_11_21_2020 20_47_29.html
+20:47:29.884 INFO  utilities.ExtentManager -*********** Report Path ***********
+20:47:30.703 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+20:47:30.703 INFO  base.TestListeners -These methods will be executed in this <test> tag
+20:47:30.704 INFO  base.TestListeners -logTotheSystem
+20:47:30.869 INFO  base.TestListeners -onTestFailure -> Test Method Name: logTotheSystem
+20:47:31.064 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test
+20:49:15.068 INFO  utilities.Util -Current Date and Time :: 11_21_2020 20_49_15
+20:49:15.087 INFO  utilities.ExtentManager -*********** Report Path ***********
+20:49:15.087 INFO  utilities.ExtentManager -/Users/samithganepola/xero/reports/AutomationReport_11_21_2020 20_49_15.html
+20:49:15.087 INFO  utilities.ExtentManager -*********** Report Path ***********
+20:49:15.784 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+20:49:15.785 INFO  base.TestListeners -These methods will be executed in this <test> tag
+20:49:15.786 INFO  base.TestListeners -logTotheSystem
+20:49:17.193 INFO  base.WebDriverFactory -OS Name from system property :: mac
+20:49:17.193 INFO  base.WebDriverFactory -Driver Binary :: /Users/samithganepola/xero/drivers/geckodriver
+20:49:20.866 INFO  base.TestListeners -onTestSkipped -> Test Method Name: logTotheSystem
+20:49:20.934 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test
+20:51:20.887 INFO  utilities.Util -Current Date and Time :: 11_21_2020 20_51_20
+20:51:20.905 INFO  utilities.ExtentManager -*********** Report Path ***********
+20:51:20.906 INFO  utilities.ExtentManager -/Users/samithganepola/xero/reports/AutomationReport_11_21_2020 20_51_20.html
+20:51:20.906 INFO  utilities.ExtentManager -*********** Report Path ***********
+20:51:21.457 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+20:51:21.457 INFO  base.TestListeners -These methods will be executed in this <test> tag
+20:51:21.458 INFO  base.TestListeners -logTotheSystem
+20:51:22.791 INFO  base.WebDriverFactory -OS Name from system property :: mac
+20:51:22.792 INFO  base.WebDriverFactory -Driver Binary :: /Users/samithganepola/xero/drivers/geckodriver
+20:51:35.744 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+20:51:45.855 ERROR base.CustomDriver -Element not appeared on the web page
+20:51:48.872 ERROR base.CustomDriver -Element not found with: id=>email
+20:51:48.875 ERROR base.CustomDriver -Cannot send keys on element :: Enter Email with data :: jcmullage@gmail.com
+20:51:49.089 INFO  base.CustomDriver -Send Keys on element :: Enter Password with data :: 2wsx1qaz~
+20:51:52.118 ERROR base.CustomDriver -Element not found with: id=>submitButton
+20:51:52.120 ERROR base.CustomDriver -Cannot click on :: Press Login Button
+20:51:52.121 INFO  utilities.Util -Current Date and Time :: 11_21_2020 20_51_52
+20:51:52.558 INFO  base.CustomDriver -Screen Shot Was Stored at: /Users/samithganepola/xero/reports//screenshots/_Click ERROR_11_21_2020 20_51_52.png
+20:51:52.564 INFO  base.TestListeners -onTestSuccess -> Test Method Name: logTotheSystem
+20:51:53.942 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test
+20:52:42.323 INFO  utilities.Util -Current Date and Time :: 11_21_2020 20_52_42
+20:52:42.333 INFO  utilities.ExtentManager -*********** Report Path ***********
+20:52:42.333 INFO  utilities.ExtentManager -/Users/samithganepola/xero/reports/AutomationReport_11_21_2020 20_52_42.html
+20:52:42.333 INFO  utilities.ExtentManager -*********** Report Path ***********
+20:52:42.771 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+20:52:42.772 INFO  base.TestListeners -These methods will be executed in this <test> tag
+20:52:42.772 INFO  base.TestListeners -logTotheSystem
+20:52:43.739 INFO  base.WebDriverFactory -OS Name from system property :: mac
+20:52:43.739 INFO  base.WebDriverFactory -Driver Binary :: /Users/samithganepola/xero/drivers/geckodriver
+20:52:52.039 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+20:52:52.602 INFO  base.CustomDriver -Element appeared on the web page
+20:52:52.717 INFO  base.CustomDriver -Send Keys on element :: Enter Email with data :: jcmullage@gmail.com
+20:52:53.261 INFO  base.CustomDriver -Send Keys on element :: Enter Password with data :: 2wsx1qaz~
+20:53:02.950 INFO  base.CustomDriver -Clicked On :: Press Login Button
+20:53:02.957 INFO  base.TestListeners -onTestSuccess -> Test Method Name: logTotheSystem
+20:53:04.538 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test
+22:01:02.332 INFO  utilities.Util -Current Date and Time :: 11_21_2020 22_01_02
+22:01:02.342 INFO  utilities.ExtentManager -*********** Report Path ***********
+22:01:02.342 INFO  utilities.ExtentManager -C:\selenium\xero/reports/AutomationReport_11_21_2020 22_01_02.html
+22:01:02.342 INFO  utilities.ExtentManager -*********** Report Path ***********
+22:01:02.649 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+22:01:02.649 INFO  base.TestListeners -These methods will be executed in this <test> tag
+22:01:02.649 INFO  base.TestListeners -logTotheSystem
+22:01:03.152 INFO  base.WebDriverFactory -OS Name from system property :: win
+22:01:03.152 INFO  base.WebDriverFactory -Driver Binary :: C:\selenium\xero/drivers/chromedriver.exe.exe
+22:01:03.231 INFO  base.TestListeners -onTestSkipped -> Test Method Name: logTotheSystem
+22:01:03.312 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test
+22:02:20.924 INFO  utilities.Util -Current Date and Time :: 11_21_2020 22_02_20
+22:02:20.930 INFO  utilities.ExtentManager -*********** Report Path ***********
+22:02:20.930 INFO  utilities.ExtentManager -C:\selenium\xero/reports/AutomationReport_11_21_2020 22_02_20.html
+22:02:20.930 INFO  utilities.ExtentManager -*********** Report Path ***********
+22:02:21.114 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+22:02:21.114 INFO  base.TestListeners -These methods will be executed in this <test> tag
+22:02:21.114 INFO  base.TestListeners -logTotheSystem
+22:02:21.516 INFO  base.WebDriverFactory -OS Name from system property :: win
+22:02:21.516 INFO  base.WebDriverFactory -Driver Binary :: C:\selenium\xero/drivers/chromedriver.exe
+22:02:27.962 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+22:02:28.024 INFO  base.CustomDriver -Element appeared on the web page
+22:02:28.142 INFO  base.CustomDriver -Send Keys on element :: Enter Email with data :: jcmullage@gmail.com
+22:02:30.119 INFO  base.CustomDriver -Send Keys on element :: Enter Password with data :: 2wsx1qaz~
+22:02:30.222 INFO  base.CustomDriver -Clicked On :: Press Login Button
+22:02:30.229 INFO  base.TestListeners -onTestSuccess -> Test Method Name: logTotheSystem
+22:02:31.215 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test
